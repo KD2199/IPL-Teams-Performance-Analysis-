@@ -1,0 +1,877 @@
+Season,Date,Team1,Team2,Venue,City,Toss(Won),Toss(Decision),BatFirst,BowlFirst,SuperOver,Winner,"WonBy(Runs,Wickets)","Won(Toss,Match)",POM
+2021,2021-10-15,CSK,KKR,Dubai International Cricket Stadium,Dubai,KKR,field,CSK,KKR,N,CSK,27.0,No,F du Plessis
+2021,2021-10-13,DC,KKR,Sharjah Cricket Stadium,Sharjah,KKR,field,DC,KKR,N,KKR,3.0,Yes,VR Iyer
+2021,2021-10-11,RCB,KKR,Sharjah Cricket Stadium,Sharjah,RCB,bat,RCB,KKR,N,KKR,4.0,No,SP Narine
+2021,2021-10-10,DC,CSK,Dubai International Cricket Stadium,Dubai,CSK,field,DC,CSK,N,CSK,4.0,Yes,RD Gaikwad
+2021,2021-10-08,MI,SH,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,MI,bat,MI,SH,N,MI,42.0,Yes,Ishan Kishan
+2021,2021-10-08,DC,RCB,Dubai International Cricket Stadium,Dubai,RCB,field,DC,RCB,N,RCB,7.0,Yes,KS Bharat
+2021,2021-10-07,KKR,RR,Sharjah Cricket Stadium,Sharjah,RR,field,KKR,RR,N,KKR,86.0,No,Shivam Mavi
+2021,2021-10-07,CSK,PK,Dubai International Cricket Stadium,Dubai,PK,field,CSK,PK,N,PK,6.0,Yes,KL Rahul
+2021,2021-10-06,SH,RCB,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,RCB,field,SH,RCB,N,SH,4.0,No,KS Williamson
+2021,2021-10-05,RR,MI,Sharjah Cricket Stadium,Sharjah,MI,field,RR,MI,N,MI,8.0,Yes,NM Coulter-Nile
+2021,2021-10-04,CSK,DC,Dubai International Cricket Stadium,Dubai,DC,field,CSK,DC,N,DC,3.0,Yes,AR Patel
+2021,2021-10-03,SH,KKR,Dubai International Cricket Stadium,Dubai,SH,bat,SH,KKR,N,KKR,6.0,No,Shubman Gill
+2021,2021-10-03,RCB,PK,Sharjah Cricket Stadium,Sharjah,RCB,bat,RCB,PK,N,RCB,6.0,Yes,GJ Maxwell
+2021,2021-10-02,CSK,RR,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,RR,field,CSK,RR,N,RR,7.0,Yes,RD Gaikwad
+2021,2021-10-02,MI,DC,Sharjah Cricket Stadium,Sharjah,DC,field,MI,DC,N,DC,4.0,Yes,AR Patel
+2021,2021-10-01,KKR,PK,Dubai International Cricket Stadium,Dubai,PK,field,KKR,PK,N,PK,5.0,Yes,KL Rahul
+2021,2021-09-30,SH,CSK,Sharjah Cricket Stadium,Sharjah,CSK,field,SH,CSK,N,CSK,6.0,Yes,JR Hazlewood
+2021,2021-09-29,RR,RCB,Dubai International Cricket Stadium,Dubai,RCB,field,RR,RCB,N,RCB,7.0,Yes,YS Chahal
+2021,2021-09-28,DC,KKR,Sharjah Cricket Stadium,Sharjah,KKR,field,DC,KKR,N,KKR,3.0,Yes,SP Narine
+2021,2021-09-28,PK,MI,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,MI,field,PK,MI,N,MI,6.0,Yes,KA Pollard
+2021,2021-09-27,RR,SH,Dubai International Cricket Stadium,Dubai,RR,bat,RR,SH,N,SH,7.0,No,JJ Roy
+2021,2021-09-26,RCB,MI,Dubai International Cricket Stadium,Dubai,MI,field,RCB,MI,N,RCB,54.0,No,GJ Maxwell
+2021,2021-09-26,KKR,CSK,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,KKR,bat,KKR,CSK,N,CSK,2.0,No,RA Jadeja
+2021,2021-09-25,PK,SH,Sharjah Cricket Stadium,Sharjah,SH,field,PK,SH,N,PK,5.0,No,JO Holder
+2021,2021-09-25,DC,RR,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,RR,field,DC,RR,N,DC,33.0,No,SS Iyer
+2021,2021-09-24,RCB,CSK,Sharjah Cricket Stadium,Sharjah,CSK,field,RCB,CSK,N,CSK,6.0,Yes,DJ Bravo
+2021,2021-09-23,MI,KKR,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,KKR,field,MI,KKR,N,KKR,7.0,Yes,SP Narine
+2021,2021-09-22,SH,DC,Dubai International Cricket Stadium,Dubai,SH,bat,SH,DC,N,DC,8.0,No,A Nortje
+2021,2021-09-21,RR,PK,Dubai International Cricket Stadium,Dubai,PK,field,RR,PK,N,RR,2.0,No,Kartik Tyagi
+2021,2021-09-20,RCB,KKR,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,RCB,bat,RCB,KKR,N,KKR,9.0,No,CV Varun
+2021,2021-09-19,CSK,MI,Dubai International Cricket Stadium,Dubai,CSK,bat,CSK,MI,N,CSK,20.0,Yes,RD Gaikwad
+2021,2021-05-02,PK,DC,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,DC,field,PK,DC,N,DC,7.0,Yes,MA Agarwal
+2021,2021-05-02,RR,SH,"Arun Jaitley Stadium, Delhi",Delhi,SH,field,RR,SH,N,RR,55.0,No,JC Buttler
+2021,2021-05-01,CSK,MI,"Arun Jaitley Stadium, Delhi",Delhi,MI,field,CSK,MI,N,MI,4.0,Yes,KA Pollard
+2021,2021-04-30,PK,RCB,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,RCB,field,PK,RCB,N,PK,34.0,No,Harpreet Brar
+2021,2021-04-29,RR,MI,"Arun Jaitley Stadium, Delhi",Delhi,MI,field,RR,MI,N,MI,7.0,Yes,Q de Kock
+2021,2021-04-29,KKR,DC,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,DC,field,KKR,DC,N,DC,7.0,Yes,PP Shaw
+2021,2021-04-28,SH,CSK,"Arun Jaitley Stadium, Delhi",Delhi,SH,bat,SH,CSK,N,CSK,7.0,No,RD Gaikwad
+2021,2021-04-27,RCB,DC,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,DC,field,RCB,DC,N,RCB,1.0,No,AB de Villiers
+2021,2021-04-26,PK,KKR,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,KKR,field,PK,KKR,N,KKR,5.0,Yes,EJG Morgan
+2021,2021-04-25,DC,SH,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,DC,bat,DC,SH,Y,DC,17.0,Yes,PP Shaw
+2021,2021-04-25,CSK,RCB,"Wankhede Stadium, Mumbai",Mumbai,CSK,bat,CSK,RCB,N,CSK,69.0,Yes,RA Jadeja
+2021,2021-04-24,KKR,RR,"Wankhede Stadium, Mumbai",Mumbai,RR,field,KKR,RR,N,RR,6.0,Yes,CH Morris
+2021,2021-04-23,MI,PK,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,PK,field,MI,PK,N,PK,9.0,Yes,KL Rahul
+2021,2021-04-22,RR,RCB,"Wankhede Stadium, Mumbai",Mumbai,RCB,field,RR,RCB,N,RCB,10.0,Yes,D Padikkal
+2021,2021-04-21,CSK,KKR,"Wankhede Stadium, Mumbai",Mumbai,KKR,field,CSK,KKR,N,CSK,18.0,No,F du Plessis
+2021,2021-04-21,PK,SH,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,PK,bat,PK,SH,N,SH,9.0,No,JM Bairstow
+2021,2021-04-20,MI,DC,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,MI,bat,MI,DC,N,DC,6.0,No,A Mishra
+2021,2021-04-19,CSK,RR,"Wankhede Stadium, Mumbai",Mumbai,RR,field,CSK,RR,N,CSK,45.0,No,MM Ali
+2021,2021-04-18,PK,DC,"Wankhede Stadium, Mumbai",Mumbai,DC,field,PK,DC,N,DC,6.0,Yes,S Dhawan
+2021,2021-04-18,RCB,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,RCB,bat,RCB,KKR,N,RCB,38.0,Yes,AB de Villiers
+2021,2021-04-17,MI,SH,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,MI,bat,MI,SH,N,MI,13.0,Yes,KA Pollard
+2021,2021-04-16,PK,CSK,"Wankhede Stadium, Mumbai",Mumbai,CSK,field,PK,CSK,N,CSK,6.0,Yes,DL Chahar
+2021,2021-04-15,DC,RR,"Wankhede Stadium, Mumbai",Mumbai,RR,field,DC,RR,N,RR,3.0,Yes,JD Unadkat
+2021,2021-04-14,RCB,SH,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,SH,field,RCB,SH,N,RCB,6.0,No,GJ Maxwell
+2021,2021-04-13,MI,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,KKR,field,MI,KKR,N,MI,10.0,No,RD Chahar
+2021,2021-04-12,PK,RR,"Wankhede Stadium, Mumbai",Mumbai,RR,field,PK,RR,N,PK,4.0,No,SV Samson
+2021,2021-04-11,KKR,SH,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,SH,field,KKR,SH,N,KKR,10.0,No,N Rana
+2021,2021-04-10,CSK,DC,"Wankhede Stadium, Mumbai",Mumbai,DC,field,CSK,DC,N,DC,7.0,Yes,S Dhawan
+2021,2021-04-09,MI,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,RCB,field,MI,RCB,N,RCB,2.0,Yes,HV Patel
+2020/21,2020-11-10,DC,MI,Dubai International Cricket Stadium,Mumbai,DC,bat,DC,MI,N,MI,5.0,No,TA Boult
+2020/21,2020-11-08,DC,SH,Sheikh Zayed Stadium,Abu Dhabi,DC,bat,DC,SH,N,DC,17.0,Yes,MP Stoinis
+2020/21,2020-11-06,RCB,SH,Sheikh Zayed Stadium,Abu Dhabi,SH,field,RCB,SH,N,SH,6.0,Yes,KS Williamson
+2020/21,2020-11-05,MI,DC,Dubai International Cricket Stadium,Mumbai,DC,field,MI,DC,N,MI,57.0,No,JJ Bumrah
+2020/21,2020-11-03,MI,SH,Sharjah Cricket Stadium,Mumbai,SH,field,MI,SH,N,SH,10.0,Yes,S Nadeem
+2020/21,2020-11-02,RCB,DC,Sheikh Zayed Stadium,Abu Dhabi,DC,field,RCB,DC,N,DC,6.0,Yes,A Nortje
+2020/21,2020-11-01,KKR,RR,Dubai International Cricket Stadium,Mumbai,RR,field,KKR,RR,N,KKR,60.0,No,PJ Cummins
+2020/21,2020-11-01,KXP,CSK,Sheikh Zayed Stadium,Abu Dhabi,CSK,field,KXP,CSK,N,CSK,9.0,Yes,RD Gaikwad
+2020/21,2020-10-31,RCB,SH,Sharjah Cricket Stadium,Mumbai,SH,field,RCB,SH,N,SH,5.0,Yes,Sandeep Sharma
+2020/21,2020-10-31,DC,MI,Dubai International Cricket Stadium,Mumbai,MI,field,DC,MI,N,MI,9.0,Yes,Ishan Kishan
+2020/21,2020-10-30,KXP,RR,Sheikh Zayed Stadium,Abu Dhabi,RR,field,KXP,RR,N,RR,7.0,Yes,BA Stokes
+2020/21,2020-10-29,KKR,CSK,Dubai International Cricket Stadium,Mumbai,CSK,field,KKR,CSK,N,CSK,6.0,Yes,RD Gaikwad
+2020/21,2020-10-28,RCB,MI,Sheikh Zayed Stadium,Abu Dhabi,MI,field,RCB,MI,N,MI,5.0,Yes,SA Yadav
+2020/21,2020-10-27,SH,DC,Dubai International Cricket Stadium,Mumbai,DC,field,SH,DC,N,SH,88.0,No,WP Saha
+2020/21,2020-10-26,KKR,KXP,Sharjah Cricket Stadium,Mumbai,KXP,field,KKR,KXP,N,KXP,8.0,Yes,CH Gayle
+2020/21,2020-10-25,MI,RR,Sheikh Zayed Stadium,Abu Dhabi,MI,bat,MI,RR,N,RR,8.0,No,BA Stokes
+2020/21,2020-10-25,RCB,CSK,Dubai International Cricket Stadium,Mumbai,RCB,bat,RCB,CSK,N,CSK,8.0,No,RD Gaikwad
+2020/21,2020-10-24,KKR,DC,Sheikh Zayed Stadium,Abu Dhabi,DC,field,KKR,DC,N,KKR,59.0,No,CV Varun
+2020/21,2020-10-24,KXP,SH,Dubai International Cricket Stadium,Mumbai,SH,field,KXP,SH,N,KXP,12.0,No,CJ Jordan
+2020/21,2020-10-23,CSK,MI,Sharjah Cricket Stadium,Mumbai,MI,field,CSK,MI,N,MI,10.0,Yes,TA Boult
+2020/21,2020-10-22,RR,SH,Dubai International Cricket Stadium,Mumbai,SH,field,RR,SH,N,SH,8.0,Yes,MK Pandey
+2020/21,2020-10-21,KKR,RCB,Sheikh Zayed Stadium,Abu Dhabi,KKR,bat,KKR,RCB,N,RCB,8.0,No,Mohammed Siraj
+2020/21,2020-10-20,DC,KXP,Dubai International Cricket Stadium,Mumbai,DC,bat,DC,KXP,N,KXP,5.0,No,S Dhawan
+2020/21,2020-10-19,CSK,RR,Sheikh Zayed Stadium,Abu Dhabi,CSK,bat,CSK,RR,N,RR,7.0,No,JC Buttler
+2020/21,2020-10-18,KKR,SH,Sheikh Zayed Stadium,Abu Dhabi,SH,field,KKR,SH,Y,KKR,17.0,No,LH Ferguson
+2020/21,2020-10-18,MI,KXP,Dubai International Cricket Stadium,Mumbai,MI,bat,MI,KXP,Y,KXP,17.0,No,KL Rahul
+2020/21,2020-10-17,RR,RCB,Dubai International Cricket Stadium,Mumbai,RR,bat,RR,RCB,N,RCB,7.0,No,AB de Villiers
+2020/21,2020-10-17,CSK,DC,Sharjah Cricket Stadium,Mumbai,CSK,bat,CSK,DC,N,DC,5.0,No,S Dhawan
+2020/21,2020-10-16,KKR,MI,Sheikh Zayed Stadium,Abu Dhabi,KKR,bat,KKR,MI,N,MI,8.0,No,Q de Kock
+2020/21,2020-10-15,RCB,KXP,Sharjah Cricket Stadium,Mumbai,RCB,bat,RCB,KXP,N,KXP,8.0,No,KL Rahul
+2020/21,2020-10-14,DC,RR,Dubai International Cricket Stadium,Mumbai,DC,bat,DC,RR,N,DC,13.0,Yes,A Nortje
+2020/21,2020-10-13,CSK,SH,Dubai International Cricket Stadium,Mumbai,CSK,bat,CSK,SH,N,CSK,20.0,Yes,RA Jadeja
+2020/21,2020-10-12,RCB,KKR,Sharjah Cricket Stadium,Mumbai,RCB,bat,RCB,KKR,N,RCB,82.0,Yes,AB de Villiers
+2020/21,2020-10-11,DC,MI,Sheikh Zayed Stadium,Abu Dhabi,DC,bat,DC,MI,N,MI,5.0,No,Q de Kock
+2020/21,2020-10-11,SH,RR,Dubai International Cricket Stadium,Mumbai,SH,bat,SH,RR,N,RR,5.0,No,R Tewatia
+2020/21,2020-10-10,RCB,CSK,Dubai International Cricket Stadium,Mumbai,RCB,bat,RCB,CSK,N,RCB,37.0,Yes,V Kohli
+2020/21,2020-10-10,KKR,KXP,Sheikh Zayed Stadium,Abu Dhabi,KKR,bat,KKR,KXP,N,KKR,2.0,Yes,KD Karthik
+2020/21,2020-10-09,DC,RR,Sharjah Cricket Stadium,Mumbai,RR,field,DC,RR,N,DC,46.0,No,R Ashwin
+2020/21,2020-10-08,SH,KXP,Dubai International Cricket Stadium,Mumbai,SH,bat,SH,KXP,N,SH,69.0,Yes,JM Bairstow
+2020/21,2020-10-07,KKR,CSK,Sheikh Zayed Stadium,Abu Dhabi,KKR,bat,KKR,CSK,N,KKR,10.0,Yes,RA Tripathi
+2020/21,2020-10-06,MI,RR,Sheikh Zayed Stadium,Abu Dhabi,MI,bat,MI,RR,N,MI,57.0,Yes,SA Yadav
+2020/21,2020-10-05,DC,RCB,Dubai International Cricket Stadium,Mumbai,RCB,field,DC,RCB,N,DC,59.0,No,AR Patel
+2020/21,2020-10-04,MI,SH,Sharjah Cricket Stadium,Mumbai,MI,bat,MI,SH,N,MI,34.0,Yes,TA Boult
+2020/21,2020-10-04,KXP,CSK,Dubai International Cricket Stadium,Mumbai,KXP,bat,KXP,CSK,N,CSK,10.0,No,SR Watson
+2020/21,2020-10-03,RR,RCB,Sheikh Zayed Stadium,Abu Dhabi,RR,bat,RR,RCB,N,RCB,8.0,No,YS Chahal
+2020/21,2020-10-03,DC,KKR,Sharjah Cricket Stadium,Mumbai,KKR,field,DC,KKR,N,DC,18.0,No,SS Iyer
+2020/21,2020-10-02,SH,CSK,Dubai International Cricket Stadium,Mumbai,SH,bat,SH,CSK,N,SH,7.0,Yes,PK Garg
+2020/21,2020-10-01,MI,KXP,Sheikh Zayed Stadium,Abu Dhabi,KXP,field,MI,KXP,N,MI,48.0,No,KA Pollard
+2020/21,2020-09-30,KKR,RR,Dubai International Cricket Stadium,Mumbai,RR,field,KKR,RR,N,KKR,37.0,No,Shivam Mavi
+2020/21,2020-09-29,SH,DC,Sheikh Zayed Stadium,Abu Dhabi,DC,field,SH,DC,N,SH,15.0,No,Rashid Khan
+2020/21,2020-09-28,RCB,MI,Dubai International Cricket Stadium,Mumbai,MI,field,RCB,MI,Y,RCB,17.0,No,AB de Villiers
+2020/21,2020-09-27,KXP,RR,Sharjah Cricket Stadium,Mumbai,RR,field,KXP,RR,N,RR,4.0,Yes,SV Samson
+2020/21,2020-09-26,SH,KKR,Sheikh Zayed Stadium,Abu Dhabi,SH,bat,SH,KKR,N,KKR,7.0,No,Shubman Gill
+2020/21,2020-09-25,DC,CSK,Dubai International Cricket Stadium,Mumbai,CSK,field,DC,CSK,N,DC,44.0,No,PP Shaw
+2020/21,2020-09-24,KXP,RCB,Dubai International Cricket Stadium,Mumbai,RCB,field,KXP,RCB,N,KXP,97.0,No,KL Rahul
+2020/21,2020-09-23,MI,KKR,Sheikh Zayed Stadium,Abu Dhabi,KKR,field,MI,KKR,N,MI,49.0,No,RG Sharma
+2020/21,2020-09-22,RR,CSK,Sharjah Cricket Stadium,Mumbai,CSK,field,RR,CSK,N,RR,16.0,No,SV Samson
+2020/21,2020-09-21,RCB,SH,Dubai International Cricket Stadium,Mumbai,SH,field,RCB,SH,N,RCB,10.0,No,YS Chahal
+2020/21,2020-09-20,DC,KXP,Dubai International Cricket Stadium,Mumbai,KXP,field,DC,KXP,Y,DC,17.0,No,MP Stoinis
+2020/21,2020-09-19,MI,CSK,Sheikh Zayed Stadium,Abu Dhabi,CSK,field,MI,CSK,N,CSK,5.0,Yes,AT Rayudu
+2019,2019-05-12,MI,CSK,Rajiv Gandhi International Stadium,Hyderabad,MI,bat,MI,CSK,N,MI,1.0,Yes,JJ Bumrah
+2019,2019-05-10,DC,CSK,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,CSK,field,DC,CSK,N,CSK,6.0,Yes,F du Plessis
+2019,2019-05-08,SH,DC,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,DC,field,SH,DC,N,DC,2.0,Yes,RR Pant
+2019,2019-05-07,CSK,MI,MA Chidambaram Stadium,Chennai,CSK,bat,CSK,MI,N,MI,6.0,No,SA Yadav
+2019,2019-05-05,KKR,MI,Wankhede Stadium,Mumbai,MI,field,KKR,MI,N,MI,9.0,Yes,HH Pandya
+2019,2019-05-05,CSK,KXP,Punjab Cricket Association IS Bindra Stadium,Chandigarh,KXP,field,CSK,KXP,N,KXP,6.0,Yes,KL Rahul
+2019,2019-05-04,SH,RCB,M.Chinnaswamy Stadium,Bengaluru,RCB,field,SH,RCB,N,RCB,4.0,Yes,SO Hetmyer
+2019,2019-05-04,RR,DC,Arun Jaitley Stadium,Delhi,RR,bat,RR,DC,N,DC,5.0,No,A Mishra
+2019,2019-05-03,KXP,KKR,Punjab Cricket Association IS Bindra Stadium,Chandigarh,KKR,field,KXP,KKR,N,KKR,7.0,Yes,Shubman Gill
+2019,2019-05-02,MI,SH,Wankhede Stadium,Mumbai,MI,bat,MI,SH,Y,MI,17.0,Yes,JJ Bumrah
+2019,2019-05-01,CSK,DC,MA Chidambaram Stadium,Chennai,DC,field,CSK,DC,N,CSK,80.0,No,MS Dhoni
+2019,2019-04-30,RCB,RR,M.Chinnaswamy Stadium,Bengaluru,RR,field,RCB,RR,N,MI,17.0,No,AB de Villiers
+2019,2019-04-29,SH,KXP,Rajiv Gandhi International Stadium,Hyderabad,KXP,field,SH,KXP,N,SH,45.0,No,DA Warner
+2019,2019-04-28,KKR,MI,Eden Gardens,Kolkata,MI,field,KKR,MI,N,KKR,34.0,No,AD Russell
+2019,2019-04-28,DC,RCB,Arun Jaitley Stadium,Delhi,DC,bat,DC,RCB,N,DC,16.0,Yes,S Dhawan
+2019,2019-04-27,SH,RR,Sawai Mansingh Stadium,Jaipur,RR,field,SH,RR,N,RR,7.0,Yes,JD Unadkat
+2019,2019-04-26,MI,CSK,MA Chidambaram Stadium,Chennai,CSK,field,MI,CSK,N,MI,46.0,No,RG Sharma
+2019,2019-04-25,KKR,RR,Eden Gardens,Kolkata,RR,field,KKR,RR,N,RR,3.0,Yes,VR Aaron
+2019,2019-04-24,RCB,KXP,M.Chinnaswamy Stadium,Bengaluru,KXP,field,RCB,KXP,N,RCB,17.0,No,AB de Villiers
+2019,2019-04-23,SH,CSK,MA Chidambaram Stadium,Chennai,CSK,field,SH,CSK,N,CSK,6.0,Yes,SR Watson
+2019,2019-04-22,RR,DC,Sawai Mansingh Stadium,Jaipur,DC,field,RR,DC,N,DC,6.0,Yes,RR Pant
+2019,2019-04-21,RCB,CSK,M.Chinnaswamy Stadium,Bengaluru,CSK,field,RCB,CSK,N,RCB,1.0,No,PA Patel
+2019,2019-04-21,KKR,SH,Rajiv Gandhi International Stadium,Hyderabad,SH,field,KKR,SH,N,SH,9.0,Yes,KK Ahmed
+2019,2019-04-20,KXP,DC,Arun Jaitley Stadium,Delhi,DC,field,KXP,DC,N,DC,5.0,Yes,SS Iyer
+2019,2019-04-20,MI,RR,Sawai Mansingh Stadium,Jaipur,RR,field,MI,RR,N,RR,5.0,Yes,SPD Smith
+2019,2019-04-19,RCB,KKR,Eden Gardens,Kolkata,KKR,field,RCB,KKR,N,RCB,10.0,No,V Kohli
+2019,2019-04-18,MI,DC,Arun Jaitley Stadium,Delhi,MI,bat,MI,DC,N,MI,40.0,Yes,HH Pandya
+2019,2019-04-17,CSK,SH,Rajiv Gandhi International Stadium,Hyderabad,CSK,bat,CSK,SH,N,SH,6.0,No,DA Warner
+2019,2019-04-16,KXP,RR,Punjab Cricket Association IS Bindra Stadium,Chandigarh,RR,field,KXP,RR,N,KXP,12.0,No,R Ashwin
+2019,2019-04-15,RCB,MI,Wankhede Stadium,Mumbai,MI,field,RCB,MI,N,MI,5.0,Yes,SL Malinga
+2019,2019-04-14,DC,SH,Rajiv Gandhi International Stadium,Hyderabad,SH,field,DC,SH,N,DC,39.0,No,KMA Paul
+2019,2019-04-14,KKR,CSK,Eden Gardens,Kolkata,CSK,field,KKR,CSK,N,CSK,5.0,Yes,Imran Tahir
+2019,2019-04-13,KXP,RCB,Punjab Cricket Association IS Bindra Stadium,Chandigarh,RCB,field,KXP,RCB,N,RCB,8.0,Yes,AB de Villiers
+2019,2019-04-13,MI,RR,Wankhede Stadium,Mumbai,RR,field,MI,RR,N,RR,4.0,Yes,JC Buttler
+2019,2019-04-12,KKR,DC,Eden Gardens,Kolkata,DC,field,KKR,DC,N,DC,7.0,Yes,S Dhawan
+2019,2019-04-11,RR,CSK,Sawai Mansingh Stadium,Jaipur,CSK,field,RR,CSK,N,CSK,4.0,Yes,MS Dhoni
+2019,2019-04-10,KXP,MI,Wankhede Stadium,Mumbai,MI,field,KXP,MI,N,MI,3.0,Yes,KA Pollard
+2019,2019-04-09,KKR,CSK,MA Chidambaram Stadium,Chennai,CSK,field,KKR,CSK,N,CSK,7.0,Yes,DL Chahar
+2019,2019-04-08,SH,KXP,Punjab Cricket Association IS Bindra Stadium,Chandigarh,KXP,field,SH,KXP,N,KXP,6.0,Yes,KL Rahul
+2019,2019-04-07,RR,KKR,Sawai Mansingh Stadium,Jaipur,KKR,field,RR,KKR,N,KKR,8.0,Yes,HF Gurney
+2019,2019-04-07,RCB,DC,M.Chinnaswamy Stadium,Bengaluru,DC,field,RCB,DC,N,DC,4.0,Yes,K Rabada
+2019,2019-04-06,MI,SH,Rajiv Gandhi International Stadium,Hyderabad,SH,field,MI,SH,N,MI,40.0,No,AS Joseph
+2019,2019-04-06,CSK,KXP,MA Chidambaram Stadium,Chennai,CSK,bat,CSK,KXP,N,CSK,22.0,Yes,Harbhajan Singh
+2019,2019-04-05,RCB,KKR,M.Chinnaswamy Stadium,Bengaluru,KKR,field,RCB,KKR,N,KKR,5.0,Yes,AD Russell
+2019,2019-04-04,DC,SH,Arun Jaitley Stadium,Delhi,SH,field,DC,SH,N,SH,5.0,Yes,JM Bairstow
+2019,2019-04-03,MI,CSK,Wankhede Stadium,Mumbai,CSK,field,MI,CSK,N,MI,37.0,No,HH Pandya
+2019,2019-04-02,RCB,RR,Sawai Mansingh Stadium,Jaipur,RR,field,RCB,RR,N,RR,7.0,Yes,S Gopal
+2019,2019-04-01,KXP,DC,Punjab Cricket Association IS Bindra Stadium,Chandigarh,DC,field,KXP,DC,N,KXP,14.0,No,SM Curran
+2019,2019-03-31,CSK,RR,MA Chidambaram Stadium,Chennai,RR,field,CSK,RR,N,CSK,8.0,No,MS Dhoni
+2019,2019-03-31,SH,RCB,Rajiv Gandhi International Stadium,Hyderabad,RCB,field,SH,RCB,N,SH,118.0,No,JM Bairstow
+2019,2019-03-30,KKR,DC,Arun Jaitley Stadium,Delhi,DC,field,KKR,DC,Y,DC,17.0,Yes,PP Shaw
+2019,2019-03-30,MI,KXP,Punjab Cricket Association IS Bindra Stadium,Chandigarh,KXP,field,MI,KXP,N,KXP,8.0,Yes,MA Agarwal
+2019,2019-03-29,RR,SH,Rajiv Gandhi International Stadium,Hyderabad,RR,bat,RR,SH,N,SH,5.0,No,Rashid Khan
+2019,2019-03-28,MI,RCB,M.Chinnaswamy Stadium,Bengaluru,RCB,field,MI,RCB,N,MI,6.0,No,JJ Bumrah
+2019,2019-03-27,KKR,KXP,Eden Gardens,Kolkata,KXP,field,KKR,KXP,N,KKR,28.0,No,AD Russell
+2019,2019-03-26,DC,CSK,Arun Jaitley Stadium,Delhi,DC,bat,DC,CSK,N,CSK,6.0,No,SR Watson
+2019,2019-03-25,KXP,RR,Sawai Mansingh Stadium,Jaipur,RR,field,KXP,RR,N,KXP,14.0,No,CH Gayle
+2019,2019-03-24,DC,MI,Wankhede Stadium,Mumbai,MI,field,DC,MI,N,DC,37.0,No,RR Pant
+2019,2019-03-24,SH,KKR,Eden Gardens,Kolkata,KKR,field,SH,KKR,N,KKR,6.0,Yes,AD Russell
+2019,2019-03-23,RCB,CSK,MA Chidambaram Stadium,Chennai,CSK,field,RCB,CSK,N,CSK,7.0,Yes,Harbhajan Singh
+2018,2018-05-27,SH,CSK,Wankhede Stadium,Mumbai,CSK,field,SH,CSK,N,CSK,8.0,Yes,SR Watson
+2018,2018-05-25,SH,KKR,Eden Gardens,Kolkata,KKR,field,SH,KKR,N,SH,14.0,No,Rashid Khan
+2018,2018-05-23,KKR,RR,Eden Gardens,Kolkata,RR,field,KKR,RR,N,KKR,25.0,No,AD Russell
+2018,2018-05-22,SH,CSK,Wankhede Stadium,Mumbai,CSK,field,SH,CSK,N,CSK,2.0,Yes,F du Plessis
+2018,2018-05-20,DD,MI,Arun Jaitley Stadium,Delhi,DD,bat,DD,MI,N,DD,11.0,Yes,A Mishra
+2018,2018-05-20,KXP,CSK,Maharashtra Cricket Association Stadium,Pune,CSK,field,KXP,CSK,N,CSK,5.0,Yes,L Ngidi
+2018,2018-05-19,RR,RCB,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,RCB,N,RR,30.0,Yes,S Gopal
+2018,2018-05-19,SH,KKR,Rajiv Gandhi International Stadium,Hyderabad,SH,bat,SH,KKR,N,KKR,5.0,No,CA Lynn
+2018,2018-05-18,DD,CSK,Arun Jaitley Stadium,Delhi,CSK,field,DD,CSK,N,DD,34.0,No,HV Patel
+2018,2018-05-17,RCB,SH,M.Chinnaswamy Stadium,Bengaluru,SH,field,RCB,SH,N,RCB,14.0,No,AB de Villiers
+2018,2018-05-16,MI,KXP,Wankhede Stadium,Mumbai,KXP,field,MI,KXP,N,MI,3.0,No,JJ Bumrah
+2018,2018-05-15,RR,KKR,Eden Gardens,Kolkata,KKR,field,RR,KKR,N,KKR,6.0,Yes,Kuldeep Yadav
+2018,2018-05-14,KXP,RCB,Holkar Cricket Stadium,Indore,RCB,field,KXP,RCB,N,RCB,10.0,Yes,UT Yadav
+2018,2018-05-13,MI,RR,Wankhede Stadium,Mumbai,RR,field,MI,RR,N,RR,7.0,Yes,JC Buttler
+2018,2018-05-13,SH,CSK,Maharashtra Cricket Association Stadium,Pune,CSK,field,SH,CSK,N,CSK,8.0,Yes,AT Rayudu
+2018,2018-05-12,DD,RCB,Arun Jaitley Stadium,Delhi,RCB,field,DD,RCB,N,RCB,5.0,Yes,AB de Villiers
+2018,2018-05-12,KKR,KXP,Holkar Cricket Stadium,Indore,KXP,field,KKR,KXP,N,KKR,31.0,No,SP Narine
+2018,2018-05-11,CSK,RR,Sawai Mansingh Stadium,Jaipur,CSK,bat,CSK,RR,N,RR,4.0,No,JC Buttler
+2018,2018-05-10,DD,SH,Arun Jaitley Stadium,Delhi,DD,bat,DD,SH,N,SH,9.0,No,S Dhawan
+2018,2018-05-09,MI,KKR,Eden Gardens,Kolkata,KKR,field,MI,KKR,N,MI,102.0,No,Ishan Kishan
+2018,2018-05-08,RR,KXP,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,KXP,N,RR,15.0,Yes,JC Buttler
+2018,2018-05-07,SH,RCB,Rajiv Gandhi International Stadium,Hyderabad,RCB,field,SH,RCB,N,SH,5.0,No,KS Williamson
+2018,2018-05-06,MI,KKR,Wankhede Stadium,Mumbai,KKR,field,MI,KKR,N,MI,13.0,No,HH Pandya
+2018,2018-05-06,RR,KXP,Holkar Cricket Stadium,Indore,KXP,field,RR,KXP,N,KXP,6.0,Yes,Mujeeb Ur Rahman
+2018,2018-05-05,DD,SH,Rajiv Gandhi International Stadium,Hyderabad,DD,bat,DD,SH,N,SH,7.0,No,Rashid Khan
+2018,2018-05-05,RCB,CSK,Maharashtra Cricket Association Stadium,Pune,CSK,field,RCB,CSK,N,CSK,6.0,Yes,RA Jadeja
+2018,2018-05-04,KXP,MI,Holkar Cricket Stadium,Indore,MI,field,KXP,MI,N,MI,6.0,Yes,SA Yadav
+2018,2018-05-03,CSK,KKR,Eden Gardens,Kolkata,KKR,field,CSK,KKR,N,KKR,6.0,Yes,SP Narine
+2018,2018-05-02,DD,RR,Arun Jaitley Stadium,Delhi,RR,field,DD,RR,N,DD,4.0,No,RR Pant
+2018,2018-05-01,RCB,MI,M.Chinnaswamy Stadium,Bengaluru,MI,field,RCB,MI,N,RCB,14.0,No,TG Southee
+2018,2018-04-30,CSK,DD,Maharashtra Cricket Association Stadium,Pune,DD,field,CSK,DD,N,CSK,13.0,No,SR Watson
+2018,2018-04-29,RCB,KKR,M.Chinnaswamy Stadium,Bengaluru,KKR,field,RCB,KKR,N,KKR,6.0,Yes,CA Lynn
+2018,2018-04-29,SH,RR,Sawai Mansingh Stadium,Jaipur,SH,bat,SH,RR,N,SH,11.0,Yes,KS Williamson
+2018,2018-04-28,CSK,MI,Maharashtra Cricket Association Stadium,Pune,MI,field,CSK,MI,N,MI,8.0,Yes,RG Sharma
+2018,2018-04-27,DD,KKR,Arun Jaitley Stadium,Delhi,KKR,field,DD,KKR,N,DD,55.0,No,SS Iyer
+2018,2018-04-26,SH,KXP,Rajiv Gandhi International Stadium,Hyderabad,KXP,field,SH,KXP,N,SH,13.0,No,AS Rajpoot
+2018,2018-04-25,RCB,CSK,M.Chinnaswamy Stadium,Bengaluru,CSK,field,RCB,CSK,N,CSK,5.0,Yes,MS Dhoni
+2018,2018-04-24,SH,MI,Wankhede Stadium,Mumbai,MI,field,SH,MI,N,SH,31.0,No,Rashid Khan
+2018,2018-04-23,KXP,DD,Arun Jaitley Stadium,Delhi,DD,field,KXP,DD,N,KXP,4.0,No,AS Rajpoot
+2018,2018-04-22,CSK,SH,Rajiv Gandhi International Stadium,Hyderabad,SH,field,CSK,SH,N,CSK,4.0,No,AT Rayudu
+2018,2018-04-22,MI,RR,Sawai Mansingh Stadium,Jaipur,MI,bat,MI,RR,N,RR,3.0,No,JC Archer
+2018,2018-04-21,KKR,KXP,Eden Gardens,Kolkata,KXP,field,KKR,KXP,N,KXP,9.0,Yes,KL Rahul
+2018,2018-04-21,DD,RCB,M.Chinnaswamy Stadium,Bengaluru,RCB,field,DD,RCB,N,RCB,6.0,Yes,AB de Villiers
+2018,2018-04-20,CSK,RR,Maharashtra Cricket Association Stadium,Pune,RR,field,CSK,RR,N,CSK,64.0,No,SR Watson
+2018,2018-04-19,KXP,SH,Punjab Cricket Association IS Bindra Stadium,Chandigarh,KXP,bat,KXP,SH,N,KXP,15.0,Yes,CH Gayle
+2018,2018-04-18,RR,KKR,Sawai Mansingh Stadium,Jaipur,KKR,field,RR,KKR,N,KKR,7.0,Yes,N Rana
+2018,2018-04-17,MI,RCB,Wankhede Stadium,Mumbai,RCB,field,MI,RCB,N,MI,46.0,No,RG Sharma
+2018,2018-04-16,KKR,DD,Eden Gardens,Kolkata,DD,field,KKR,DD,N,KKR,71.0,No,N Rana
+2018,2018-04-15,KXP,CSK,Punjab Cricket Association IS Bindra Stadium,Chandigarh,CSK,field,KXP,CSK,N,KXP,4.0,No,CH Gayle
+2018,2018-04-15,RR,RCB,M.Chinnaswamy Stadium,Bengaluru,RCB,field,RR,RCB,N,RR,19.0,No,SV Samson
+2018,2018-04-14,KKR,SH,Eden Gardens,Kolkata,SH,field,KKR,SH,N,SH,5.0,Yes,B Stanlake
+2018,2018-04-14,MI,DD,Wankhede Stadium,Mumbai,DD,field,MI,DD,N,DD,7.0,Yes,JJ Roy
+2018,2018-04-13,KXP,RCB,M.Chinnaswamy Stadium,Bengaluru,RCB,field,KXP,RCB,N,RCB,4.0,Yes,UT Yadav
+2018,2018-04-12,MI,SH,Rajiv Gandhi International Stadium,Hyderabad,SH,field,MI,SH,N,SH,1.0,Yes,Rashid Khan
+2018,2018-04-11,RR,DD,Sawai Mansingh Stadium,Jaipur,DD,field,RR,DD,N,RR,10.0,No,SV Samson
+2018,2018-04-10,KKR,CSK,MA Chidambaram Stadium,Chennai,CSK,field,KKR,CSK,N,CSK,5.0,Yes,SW Billings
+2018,2018-04-09,RR,SH,Rajiv Gandhi International Stadium,Hyderabad,SH,field,RR,SH,N,SH,9.0,Yes,S Dhawan
+2018,2018-04-08,RCB,KKR,Eden Gardens,Kolkata,KKR,field,RCB,KKR,N,KKR,4.0,Yes,SP Narine
+2018,2018-04-08,DD,KXP,Punjab Cricket Association IS Bindra Stadium,Chandigarh,KXP,field,DD,KXP,N,KXP,6.0,Yes,KL Rahul
+2018,2018-04-07,MI,CSK,Wankhede Stadium,Mumbai,CSK,field,MI,CSK,N,CSK,1.0,Yes,DJ Bravo
+2017,2017-05-21,MI,RPS,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,MI,bat,MI,RPS,N,MI,1.0,Yes,KH Pandya
+2017,2017-05-19,MI,KKR,M Chinnaswamy Stadium,Bangalore,MI,field,KKR,MI,N,MI,6.0,Yes,KV Sharma
+2017,2017-05-17,SH,KKR,M Chinnaswamy Stadium,Bangalore,KKR,field,SH,KKR,N,KKR,7.0,Yes,NM Coulter-Nile
+2017,2017-05-16,MI,RPS,Wankhede Stadium,Mumbai,MI,field,RPS,MI,N,RPS,20.0,No,Washington Sundar
+2017,2017-05-14,DD,RCB,Feroz Shah Kotla,Delhi,RCB,bat,RCB,DD,N,RCB,10.0,Yes,HV Patel
+2017,2017-05-14,RPS,KXP,Maharashtra Cricket Association Stadium,Pune,RPS,field,KXP,RPS,N,RPS,9.0,Yes,JD Unadkat
+2017,2017-05-13,KKR,MI,Eden Gardens,Kolkata,KKR,field,MI,KKR,N,MI,9.0,No,AT Rayudu
+2017,2017-05-13,GL,SH,Green Park,Kanpur,SH,field,GL,SH,N,SH,8.0,Yes,Mohammed Siraj
+2017,2017-05-12,DD,RPS,Feroz Shah Kotla,Delhi,DD,bat,DD,RPS,N,DD,7.0,Yes,KK Nair
+2017,2017-05-11,MI,KXP,Wankhede Stadium,Mumbai,MI,field,KXP,MI,N,KXP,7.0,No,WP Saha
+2017,2017-05-10,GL,DD,Green Park,Kanpur,DD,field,GL,DD,N,DD,2.0,Yes,SS Iyer
+2017,2017-05-09,KXP,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KKR,field,KXP,KKR,N,KXP,14.0,No,MM Sharma
+2017,2017-05-08,SH,MI,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,MI,bat,MI,SH,N,SH,7.0,No,S Dhawan
+2017,2017-05-07,KXP,GL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,GL,field,KXP,GL,N,GL,6.0,Yes,DR Smith
+2017,2017-05-07,RCB,KKR,M Chinnaswamy Stadium,Bangalore,KKR,field,RCB,KKR,N,KKR,6.0,Yes,SP Narine
+2017,2017-05-06,SH,RPS,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,field,RPS,SH,N,RPS,12.0,No,JD Unadkat
+2017,2017-05-06,DD,MI,Feroz Shah Kotla,Delhi,DD,field,MI,DD,N,MI,146.0,No,LMP Simmons
+2017,2017-05-05,RCB,KXP,M Chinnaswamy Stadium,Bangalore,RCB,field,KXP,RCB,N,KXP,19.0,No,Sandeep Sharma
+2017,2017-05-04,DD,GL,Feroz Shah Kotla,Delhi,DD,field,GL,DD,N,DD,7.0,Yes,RR Pant
+2017,2017-05-03,KKR,RPS,Eden Gardens,Kolkata,RPS,field,KKR,RPS,N,RPS,4.0,Yes,RA Tripathi
+2017,2017-05-02,DD,SH,Feroz Shah Kotla,Delhi,DD,field,SH,DD,N,DD,6.0,Yes,Mohammed Shami
+2017,2017-05-01,RPS,GL,Maharashtra Cricket Association Stadium,Pune,RPS,field,GL,RPS,N,RPS,5.0,Yes,BA Stokes
+2017,2017-05-01,MI,RCB,Wankhede Stadium,Mumbai,RCB,bat,RCB,MI,N,MI,5.0,No,RG Sharma
+2017,2017-04-30,SH,KKR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KKR,field,SH,KKR,N,SH,48.0,No,DA Warner
+2017,2017-04-30,KXP,DD,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KXP,field,DD,KXP,N,KXP,10.0,Yes,Sandeep Sharma
+2017,2017-04-29,GL,MI,Saurashtra Cricket Association Stadium,Rajkot,GL,bat,GL,MI,Y,MI,17.0,No,KH Pandya
+2017,2017-04-29,RPS,RCB,Maharashtra Cricket Association Stadium,Pune,RCB,field,RPS,RCB,N,RPS,61.0,No,LH Ferguson
+2017,2017-04-28,KXP,SH,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KXP,field,SH,KXP,N,SH,26.0,No,Rashid Khan
+2017,2017-04-28,KKR,DD,Eden Gardens,Kolkata,KKR,field,DD,KKR,N,KKR,7.0,Yes,G Gambhir
+2017,2017-04-27,RCB,GL,M Chinnaswamy Stadium,Bangalore,GL,field,RCB,GL,N,GL,7.0,Yes,AJ Tye
+2017,2017-04-26,RPS,KKR,Maharashtra Cricket Association Stadium,Pune,KKR,field,RPS,KKR,N,KKR,7.0,Yes,RV Uthappa
+2017,2017-04-24,MI,RPS,Wankhede Stadium,Mumbai,MI,field,RPS,MI,N,RPS,3.0,No,BA Stokes
+2017,2017-04-23,KKR,RCB,Eden Gardens,Kolkata,RCB,field,KKR,RCB,N,KKR,82.0,No,NM Coulter-Nile
+2017,2017-04-23,GL,KXP,Saurashtra Cricket Association Stadium,Rajkot,GL,field,KXP,GL,N,KXP,26.0,No,HM Amla
+2017,2017-04-22,MI,DD,Wankhede Stadium,Mumbai,DD,field,MI,DD,N,MI,14.0,No,MJ McClenaghan
+2017,2017-04-22,RPS,SH,Maharashtra Cricket Association Stadium,Pune,RPS,field,SH,RPS,N,RPS,6.0,Yes,MS Dhoni
+2017,2017-04-21,KKR,GL,Eden Gardens,Kolkata,GL,field,KKR,GL,N,GL,4.0,Yes,SK Raina
+2017,2017-04-20,KXP,MI,Holkar Cricket Stadium,Indore,MI,field,KXP,MI,N,MI,8.0,Yes,JC Buttler
+2017,2017-04-19,SH,DD,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,DD,N,SH,15.0,Yes,KS Williamson
+2017,2017-04-18,GL,RCB,Saurashtra Cricket Association Stadium,Rajkot,GL,field,RCB,GL,N,RCB,21.0,No,CH Gayle
+2017,2017-04-17,SH,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KXP,field,SH,KXP,N,SH,5.0,No,B Kumar
+2017,2017-04-17,DD,KKR,Feroz Shah Kotla,Delhi,DD,bat,DD,KKR,N,KKR,4.0,No,NM Coulter-Nile
+2017,2017-04-16,RCB,RPS,M Chinnaswamy Stadium,Bangalore,RCB,field,RPS,RCB,N,RPS,27.0,No,BA Stokes
+2017,2017-04-16,MI,GL,Wankhede Stadium,Mumbai,MI,field,GL,MI,N,MI,6.0,Yes,N Rana
+2017,2017-04-15,DD,KXP,Feroz Shah Kotla,Delhi,DD,bat,DD,KXP,N,DD,51.0,Yes,CJ Anderson
+2017,2017-04-15,KKR,SH,Eden Gardens,Kolkata,SH,field,KKR,SH,N,KKR,17.0,No,RV Uthappa
+2017,2017-04-14,GL,RPS,Saurashtra Cricket Association Stadium,Rajkot,GL,field,RPS,GL,N,GL,7.0,Yes,AJ Tye
+2017,2017-04-14,RCB,MI,M Chinnaswamy Stadium,Bangalore,MI,field,RCB,MI,N,MI,4.0,Yes,KA Pollard
+2017,2017-04-13,KKR,KXP,Eden Gardens,Kolkata,KKR,field,KXP,KKR,N,KKR,8.0,Yes,SP Narine
+2017,2017-04-12,MI,SH,Wankhede Stadium,Mumbai,MI,field,SH,MI,N,MI,4.0,Yes,JJ Bumrah
+2017,2017-04-11,RPS,DD,Maharashtra Cricket Association Stadium,Pune,RPS,field,DD,RPS,N,DD,97.0,No,SV Samson
+2017,2017-04-10,KXP,RCB,Holkar Cricket Stadium,Indore,RCB,bat,RCB,KXP,N,KXP,8.0,No,AR Patel
+2017,2017-04-09,MI,KKR,Wankhede Stadium,Mumbai,MI,field,KKR,MI,N,MI,4.0,Yes,N Rana
+2017,2017-04-09,SH,GL,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,field,GL,SH,N,SH,9.0,Yes,Rashid Khan
+2017,2017-04-08,RCB,DD,M.Chinnaswamy Stadium,Bengaluru,RCB,bat,RCB,DD,N,RCB,15.0,Yes,KM Jadhav
+2017,2017-04-08,KXP,RPS,Holkar Cricket Stadium,Indore,KXP,field,RPS,KXP,N,KXP,6.0,Yes,GJ Maxwell
+2017,2017-04-07,GL,KKR,Saurashtra Cricket Association Stadium,Rajkot,KKR,field,GL,KKR,N,KKR,10.0,Yes,CA Lynn
+2017,2017-04-06,RPS,MI,Maharashtra Cricket Association Stadium,Pune,RPS,field,MI,RPS,N,RPS,7.0,Yes,SPD Smith
+2017,2017-04-05,SH,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RCB,field,SH,RCB,N,SH,35.0,No,Yuvraj Singh
+2016,2016-05-29,RCB,SH,M Chinnaswamy Stadium,Bangalore,SH,bat,SH,RCB,N,SH,8.0,Yes,BCJ Cutting
+2016,2016-05-27,GL,SH,Feroz Shah Kotla,Delhi,SH,field,GL,SH,N,SH,4.0,Yes,DA Warner
+2016,2016-05-25,SH,KKR,Feroz Shah Kotla,Delhi,KKR,field,SH,KKR,N,SH,22.0,No,MC Henriques
+2016,2016-05-24,GL,RCB,M Chinnaswamy Stadium,Bangalore,RCB,field,GL,RCB,N,RCB,4.0,Yes,AB de Villiers
+2016,2016-05-22,DD,RCB,Shaheed Veer Narayan Singh International Stadium,Raipur,RCB,field,DD,RCB,N,RCB,6.0,Yes,V Kohli
+2016,2016-05-22,KKR,SH,Eden Gardens,Kolkata,SH,field,KKR,SH,N,KKR,22.0,No,YK Pathan
+2016,2016-05-21,GL,MI,Green Park,Kanpur,GL,field,MI,GL,N,GL,6.0,Yes,SK Raina
+2016,2016-05-21,RPS,KXP,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,KXP,bat,KXP,RPS,N,RPS,4.0,No,MS Dhoni
+2016,2016-05-20,DD,SH,Shaheed Veer Narayan Singh International Stadium,Raipur,DD,field,SH,DD,N,DD,6.0,Yes,KK Nair
+2016,2016-05-19,GL,KKR,Green Park,Kanpur,GL,field,KKR,GL,N,GL,6.0,Yes,DR Smith
+2016,2016-05-18,RCB,KXP,M Chinnaswamy Stadium,Bangalore,KXP,field,RCB,KXP,N,RCB,82.0,No,V Kohli
+2016,2016-05-17,RPS,DD,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,RPS,field,DD,RPS,N,RPS,19.0,Yes,AB Dinda
+2016,2016-05-16,KKR,RCB,Eden Gardens,Kolkata,RCB,field,KKR,RCB,N,RCB,9.0,Yes,V Kohli
+2016,2016-05-15,KXP,SH,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KXP,bat,KXP,SH,N,SH,7.0,No,HM Amla
+2016,2016-05-15,MI,DD,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,DD,field,MI,DD,N,MI,80.0,No,KH Pandya
+2016,2016-05-14,RCB,GL,M Chinnaswamy Stadium,Bangalore,GL,field,RCB,GL,N,RCB,144.0,No,AB de Villiers
+2016,2016-05-14,KKR,RPS,Eden Gardens,Kolkata,RPS,bat,RPS,KKR,N,KKR,8.0,No,YK Pathan
+2016,2016-05-13,MI,KXP,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,MI,bat,MI,KXP,N,KXP,7.0,No,MP Stoinis
+2016,2016-05-12,SH,DD,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DD,field,SH,DD,N,DD,7.0,Yes,CH Morris
+2016,2016-05-11,RCB,MI,M Chinnaswamy Stadium,Bangalore,MI,field,RCB,MI,N,MI,6.0,Yes,KH Pandya
+2016,2016-05-10,RPS,SH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,SH,bat,SH,RPS,N,SH,4.0,Yes,A Zampa
+2016,2016-05-09,KXP,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KXP,field,RCB,KXP,N,RCB,1.0,No,SR Watson
+2016,2016-05-08,KKR,GL,Eden Gardens,Kolkata,GL,field,KKR,GL,N,GL,5.0,Yes,P Kumar
+2016,2016-05-08,MI,SH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,MI,field,SH,MI,N,SH,85.0,No,A Nehra
+2016,2016-05-07,KXP,DD,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,DD,field,KXP,DD,N,KXP,9.0,No,MP Stoinis
+2016,2016-05-07,RCB,RPS,M Chinnaswamy Stadium,Bangalore,RCB,field,RPS,RCB,N,RCB,7.0,Yes,V Kohli
+2016,2016-05-06,SH,GL,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,field,GL,SH,N,SH,5.0,Yes,B Kumar
+2016,2016-05-05,DD,RPS,Feroz Shah Kotla,Delhi,RPS,field,DD,RPS,N,RPS,7.0,Yes,AM Rahane
+2016,2016-05-04,KKR,KXP,Eden Gardens,Kolkata,KXP,field,KKR,KXP,N,KKR,7.0,No,AD Russell
+2016,2016-05-03,GL,DD,Saurashtra Cricket Association Stadium,Rajkot,DD,field,GL,DD,N,DD,8.0,Yes,RR Pant
+2016,2016-05-02,RCB,KKR,M Chinnaswamy Stadium,Bangalore,KKR,field,RCB,KKR,N,KKR,5.0,Yes,AD Russell
+2016,2016-05-01,GL,KXP,Saurashtra Cricket Association Stadium,Rajkot,GL,field,KXP,GL,N,KXP,23.0,No,AR Patel
+2016,2016-05-01,RPS,MI,Maharashtra Cricket Association Stadium,Pune,MI,field,RPS,MI,N,MI,8.0,Yes,RG Sharma
+2016,2016-04-30,DD,KKR,Feroz Shah Kotla,Delhi,KKR,field,DD,KKR,N,DD,27.0,No,CR Brathwaite
+2016,2016-04-30,SH,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RCB,field,SH,RCB,N,SH,15.0,No,DA Warner
+2016,2016-04-29,RPS,GL,Maharashtra Cricket Association Stadium,Pune,GL,field,RPS,GL,N,GL,3.0,Yes,DR Smith
+2016,2016-04-28,MI,KKR,Wankhede Stadium,Mumbai,MI,field,KKR,MI,N,MI,6.0,Yes,RG Sharma
+2016,2016-04-27,DD,GL,Feroz Shah Kotla,Delhi,DD,field,GL,DD,N,GL,1.0,No,CH Morris
+2016,2016-04-26,SH,RPS,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RPS,field,SH,RPS,N,RPS,34.0,Yes,AB Dinda
+2016,2016-04-25,KXP,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KXP,field,MI,KXP,N,MI,25.0,No,PA Patel
+2016,2016-04-24,RPS,KKR,Maharashtra Cricket Association Stadium,Pune,KKR,field,RPS,KKR,N,KKR,2.0,Yes,SA Yadav
+2016,2016-04-24,GL,RCB,Saurashtra Cricket Association Stadium,Rajkot,RCB,bat,RCB,GL,N,GL,6.0,No,V Kohli
+2016,2016-04-23,SH,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,field,KXP,SH,N,SH,5.0,Yes,Mustafizur Rahman
+2016,2016-04-23,DD,MI,Feroz Shah Kotla,Delhi,MI,field,DD,MI,N,DD,10.0,No,SV Samson
+2016,2016-04-22,RPS,RCB,Maharashtra Cricket Association Stadium,Pune,RPS,field,RCB,RPS,N,RCB,13.0,No,AB de Villiers
+2016,2016-04-21,GL,SH,Saurashtra Cricket Association Stadium,Rajkot,SH,field,GL,SH,N,SH,10.0,Yes,B Kumar
+2016,2016-04-20,MI,RCB,Wankhede Stadium,Mumbai,MI,field,RCB,MI,N,MI,6.0,Yes,RG Sharma
+2016,2016-04-19,KXP,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KKR,field,KXP,KKR,N,KKR,6.0,Yes,RV Uthappa
+2016,2016-04-18,SH,MI,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,field,MI,SH,N,SH,7.0,Yes,DA Warner
+2016,2016-04-17,KXP,RPS,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,RPS,bat,RPS,KXP,N,KXP,6.0,No,M Vohra
+2016,2016-04-17,RCB,DD,M Chinnaswamy Stadium,Bangalore,DD,field,RCB,DD,N,DD,7.0,Yes,Q de Kock
+2016,2016-04-16,MI,GL,Wankhede Stadium,Mumbai,GL,field,MI,GL,N,GL,3.0,Yes,AJ Finch
+2016,2016-04-16,SH,KKR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,KKR,N,KKR,8.0,No,G Gambhir
+2016,2016-04-15,DD,KXP,Feroz Shah Kotla,Delhi,DD,field,KXP,DD,N,DD,8.0,Yes,A Mishra
+2016,2016-04-14,GL,RPS,Saurashtra Cricket Association Stadium,Rajkot,RPS,bat,RPS,GL,N,GL,7.0,No,AJ Finch
+2016,2016-04-13,KKR,MI,Eden Gardens,Kolkata,MI,field,KKR,MI,N,MI,6.0,Yes,RG Sharma
+2016,2016-04-12,RCB,SH,M Chinnaswamy Stadium,Bangalore,SH,field,RCB,SH,N,RCB,45.0,No,AB de Villiers
+2016,2016-04-11,KXP,GL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,GL,field,KXP,GL,N,GL,5.0,Yes,AJ Finch
+2016,2016-04-10,KKR,DD,Eden Gardens,Kolkata,KKR,field,DD,KKR,N,KKR,9.0,Yes,AD Russell
+2016,2016-04-09,MI,RPS,Wankhede Stadium,Mumbai,MI,bat,MI,RPS,N,RPS,9.0,No,AM Rahane
+2015,2015-05-24,MI,CSK,Eden Gardens,Kolkata,CSK,field,MI,CSK,N,MI,41.0,No,RG Sharma
+2015,2015-05-22,CSK,RCB,JSCA International Stadium Complex,Ranchi,CSK,field,RCB,CSK,N,CSK,3.0,Yes,A Nehra
+2015,2015-05-20,RCB,RR,Maharashtra Cricket Association Stadium,Pune,RCB,bat,RCB,RR,N,RCB,71.0,Yes,AB de Villiers
+2015,2015-05-19,CSK,MI,Wankhede Stadium,Mumbai,MI,bat,MI,CSK,N,MI,25.0,Yes,KA Pollard
+2015,2015-05-17,SH,MI,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,MI,N,MI,9.0,No,MJ McClenaghan
+2015,2015-05-17,RCB,DD,M Chinnaswamy Stadium,Bangalore,RCB,field,DD,RCB,N,MI,17.0,No,AB de Villiers
+2015,2015-05-16,RR,KKR,Brabourne Stadium,Mumbai,RR,bat,RR,KKR,N,RR,9.0,Yes,SR Watson
+2015,2015-05-16,KXP,CSK,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,bat,KXP,CSK,N,CSK,7.0,No,P Negi
+2015,2015-05-15,SH,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,RCB,N,RCB,6.0,No,V Kohli
+2015,2015-05-14,MI,KKR,Wankhede Stadium,Mumbai,KKR,field,MI,KKR,N,MI,5.0,No,HH Pandya
+2015,2015-05-13,KXP,RCB,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RCB,field,KXP,RCB,N,KXP,22.0,No,AR Patel
+2015,2015-05-12,DD,CSK,Shaheed Veer Narayan Singh International Stadium,Raipur,CSK,bat,CSK,DD,N,DD,6.0,No,Z Khan
+2015,2015-05-11,SH,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,KXP,N,SH,5.0,Yes,DA Warner
+2015,2015-05-10,CSK,RR,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,RR,N,CSK,12.0,Yes,RA Jadeja
+2015,2015-05-10,MI,RCB,Wankhede Stadium,Mumbai,RCB,bat,RCB,MI,N,RCB,39.0,Yes,AB de Villiers
+2015,2015-05-09,DD,SH,Shaheed Veer Narayan Singh International Stadium,Raipur,SH,bat,SH,DD,N,SH,6.0,Yes,MC Henriques
+2015,2015-05-09,KKR,KXP,Eden Gardens,Kolkata,KXP,bat,KXP,KKR,N,KKR,1.0,No,AD Russell
+2015,2015-05-08,CSK,MI,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,MI,N,MI,6.0,No,HH Pandya
+2015,2015-05-07,RR,SH,Brabourne Stadium,Mumbai,RR,field,SH,RR,N,SH,7.0,No,EJG Morgan
+2015,2015-05-07,KKR,DD,Eden Gardens,Kolkata,KKR,bat,KKR,DD,N,KKR,13.0,Yes,PP Chawla
+2015,2015-05-06,RCB,KXP,M Chinnaswamy Stadium,Bangalore,KXP,field,RCB,KXP,N,RCB,138.0,No,CH Gayle
+2015,2015-05-05,MI,DD,Wankhede Stadium,Mumbai,DD,bat,DD,MI,N,MI,5.0,No,Harbhajan Singh
+2015,2015-05-04,KKR,SH,Eden Gardens,Kolkata,SH,field,KKR,SH,N,KKR,35.0,No,UT Yadav
+2015,2015-05-04,CSK,RCB,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,RCB,N,CSK,24.0,Yes,SK Raina
+2015,2015-05-03,RR,DD,Brabourne Stadium,Mumbai,DD,field,RR,DD,N,RR,14.0,No,AM Rahane
+2015,2015-05-03,KXP,MI,"Punjab Cricket Association Stadium, Mohali",Chandigarh,MI,bat,MI,KXP,N,MI,23.0,Yes,LMP Simmons
+2015,2015-05-02,RCB,KKR,M Chinnaswamy Stadium,Bangalore,RCB,field,KKR,RCB,N,RCB,7.0,Yes,Mandeep Singh
+2015,2015-05-02,SH,CSK,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,CSK,field,SH,CSK,N,SH,22.0,No,DA Warner
+2015,2015-05-01,DD,KXP,Feroz Shah Kotla,Delhi,DD,field,KXP,DD,N,DD,9.0,Yes,NM Coulter-Nile
+2015,2015-05-01,MI,RR,Wankhede Stadium,Mumbai,RR,field,MI,RR,N,MI,8.0,No,AT Rayudu
+2015,2015-04-30,KKR,CSK,Eden Gardens,Kolkata,KKR,field,CSK,KKR,N,KKR,7.0,Yes,AD Russell
+2015,2015-04-29,RCB,RR,M Chinnaswamy Stadium,Bangalore,RR,field,RCB,RR,N,MI,17.0,No,AB de Villiers
+2015,2015-04-28,CSK,KKR,"MA Chidambaram Stadium, Chepauk",Chennai,KKR,field,CSK,KKR,N,CSK,2.0,No,DJ Bravo
+2015,2015-04-27,KXP,SH,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,SH,KXP,N,SH,20.0,No,TA Boult
+2015,2015-04-26,DD,RCB,Feroz Shah Kotla,Delhi,RCB,field,DD,RCB,N,RCB,10.0,Yes,VR Aaron
+2015,2015-04-25,CSK,KXP,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,KXP,N,CSK,97.0,Yes,BB McCullum
+2015,2015-04-25,MI,SH,Wankhede Stadium,Mumbai,MI,bat,MI,SH,N,MI,20.0,Yes,SL Malinga
+2015,2015-04-24,RR,RCB,"Sardar Patel Stadium, Motera",Ahmedabad,RCB,field,RR,RCB,N,RCB,9.0,Yes,MA Starc
+2015,2015-04-23,DD,MI,Feroz Shah Kotla,Delhi,MI,field,DD,MI,N,DD,37.0,No,SS Iyer
+2015,2015-04-22,RCB,CSK,M Chinnaswamy Stadium,Bangalore,RCB,field,CSK,RCB,N,CSK,27.0,No,SK Raina
+2015,2015-04-22,SH,KKR,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,KKR,field,SH,KKR,N,SH,16.0,No,DA Warner
+2015,2015-04-21,RR,KXP,"Sardar Patel Stadium, Motera",Ahmedabad,KXP,field,RR,KXP,Y,KXP,17.0,Yes,SE Marsh
+2015,2015-04-20,DD,KKR,Feroz Shah Kotla,Delhi,KKR,field,DD,KKR,N,KKR,6.0,Yes,UT Yadav
+2015,2015-04-19,RCB,MI,M Chinnaswamy Stadium,Bangalore,RCB,field,MI,RCB,N,MI,18.0,No,Harbhajan Singh
+2015,2015-04-19,RR,CSK,"Sardar Patel Stadium, Motera",Ahmedabad,CSK,bat,CSK,RR,N,RR,8.0,No,AM Rahane
+2015,2015-04-18,SH,DD,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,DD,bat,DD,SH,N,DD,4.0,Yes,JP Duminy
+2015,2015-04-18,KXP,KKR,Maharashtra Cricket Association Stadium,Pune,KKR,field,KXP,KKR,N,KKR,4.0,Yes,AD Russell
+2015,2015-04-17,MI,CSK,Wankhede Stadium,Mumbai,MI,bat,MI,CSK,N,CSK,6.0,No,A Nehra
+2015,2015-04-16,SH,RR,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,RR,field,SH,RR,N,RR,6.0,Yes,AM Rahane
+2015,2015-04-15,KXP,DD,Maharashtra Cricket Association Stadium,Pune,KXP,bat,KXP,DD,N,DD,5.0,No,MA Agarwal
+2015,2015-04-14,RR,MI,"Sardar Patel Stadium, Motera",Ahmedabad,MI,bat,MI,RR,N,RR,7.0,No,SPD Smith
+2015,2015-04-13,RCB,SH,M Chinnaswamy Stadium,Bangalore,SH,field,RCB,SH,N,SH,8.0,Yes,DA Warner
+2015,2015-04-12,MI,KXP,Wankhede Stadium,Mumbai,MI,field,KXP,MI,N,KXP,18.0,No,GJ Bailey
+2015,2015-04-12,DD,RR,Feroz Shah Kotla,Delhi,RR,field,DD,RR,N,RR,3.0,Yes,DJ Hooda
+2015,2015-04-11,KKR,RCB,Eden Gardens,Kolkata,RCB,field,KKR,RCB,N,RCB,3.0,Yes,CH Gayle
+2015,2015-04-11,CSK,SH,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,SH,N,CSK,45.0,Yes,BB McCullum
+2015,2015-04-10,KXP,RR,Maharashtra Cricket Association Stadium,Pune,KXP,field,RR,KXP,N,RR,26.0,No,JP Faulkner
+2015,2015-04-09,CSK,DD,"MA Chidambaram Stadium, Chepauk",Chennai,DD,field,CSK,DD,N,CSK,1.0,No,A Nehra
+2015,2015-04-08,KKR,MI,Eden Gardens,Kolkata,KKR,field,MI,KKR,N,KKR,7.0,Yes,M Morkel
+2014,2014-06-01,KKR,KXP,M Chinnaswamy Stadium,Bangalore,KKR,field,KXP,KKR,N,KKR,3.0,Yes,MK Pandey
+2014,2014-05-30,CSK,KXP,Wankhede Stadium,Mumbai,CSK,field,KXP,CSK,N,KXP,24.0,No,V Sehwag
+2014,2014-05-28,CSK,MI,Brabourne Stadium,Mumbai,CSK,field,MI,CSK,N,CSK,7.0,Yes,SK Raina
+2014,2014-05-27,KXP,KKR,Eden Gardens,Kolkata,KXP,field,KKR,KXP,N,KKR,28.0,No,UT Yadav
+2014,2014-05-25,MI,RR,Wankhede Stadium,Mumbai,MI,field,RR,MI,N,MI,5.0,Yes,CJ Anderson
+2014,2014-05-25,KXP,DD,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,DD,KXP,N,KXP,7.0,Yes,M Vohra
+2014,2014-05-24,KKR,SH,Eden Gardens,Kolkata,KKR,field,SH,KKR,N,KKR,4.0,Yes,YK Pathan
+2014,2014-05-24,RCB,CSK,M Chinnaswamy Stadium,Bangalore,CSK,field,RCB,CSK,N,CSK,8.0,Yes,MS Dhoni
+2014,2014-05-23,KXP,RR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RR,field,KXP,RR,N,KXP,16.0,No,SE Marsh
+2014,2014-05-23,MI,DD,Wankhede Stadium,Mumbai,DD,field,MI,DD,N,MI,15.0,No,MEK Hussey
+2014,2014-05-22,CSK,SH,JSCA International Stadium Complex,Ranchi,SH,field,CSK,SH,N,SH,6.0,Yes,DA Warner
+2014,2014-05-22,KKR,RCB,Eden Gardens,Kolkata,RCB,field,KKR,RCB,N,KKR,30.0,No,RV Uthappa
+2014,2014-05-21,KXP,MI,"Punjab Cricket Association Stadium, Mohali",Chandigarh,MI,field,KXP,MI,N,MI,7.0,Yes,LMP Simmons
+2014,2014-05-20,KKR,CSK,Eden Gardens,Kolkata,KKR,field,CSK,KKR,N,KKR,8.0,Yes,RV Uthappa
+2014,2014-05-20,SH,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RCB,bat,RCB,SH,N,SH,7.0,No,DA Warner
+2014,2014-05-19,DD,KXP,Feroz Shah Kotla,Delhi,KXP,field,DD,KXP,N,KXP,4.0,Yes,AR Patel
+2014,2014-05-19,RR,MI,"Sardar Patel Stadium, Motera",Ahmedabad,MI,bat,MI,RR,N,MI,25.0,Yes,MEK Hussey
+2014,2014-05-18,CSK,RCB,JSCA International Stadium Complex,Ranchi,CSK,bat,CSK,RCB,N,RCB,5.0,No,AB de Villiers
+2014,2014-05-18,SH,KKR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,KKR,N,KKR,7.0,No,UT Yadav
+2014,2014-05-15,RR,DD,"Sardar Patel Stadium, Motera",Ahmedabad,DD,field,RR,DD,N,RR,62.0,No,AM Rahane
+2014,2014-05-14,SH,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KXP,field,SH,KXP,N,KXP,6.0,Yes,WP Saha
+2014,2014-05-14,KKR,MI,Barabati Stadium,Cuttack,KKR,field,MI,KKR,N,KKR,6.0,Yes,RV Uthappa
+2014,2014-05-13,RCB,DD,M Chinnaswamy Stadium,Bangalore,DD,field,RCB,DD,N,RCB,16.0,No,Yuvraj Singh
+2014,2014-05-13,CSK,RR,JSCA International Stadium Complex,Ranchi,RR,bat,RR,CSK,N,CSK,5.0,No,RA Jadeja
+2014,2014-05-12,SH,MI,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,MI,N,MI,7.0,No,AT Rayudu
+2014,2014-05-11,KXP,KKR,Barabati Stadium,Cuttack,KKR,field,KXP,KKR,N,KKR,9.0,Yes,G Gambhir
+2014,2014-05-11,RCB,RR,M Chinnaswamy Stadium,Bangalore,RCB,bat,RCB,RR,N,RR,5.0,No,JP Faulkner
+2014,2014-05-10,MI,CSK,Wankhede Stadium,Mumbai,CSK,field,MI,CSK,N,CSK,4.0,Yes,DR Smith
+2014,2014-05-10,DD,SH,Feroz Shah Kotla,Delhi,SH,field,DD,SH,N,SH,8.0,Yes,DW Steyn
+2014,2014-05-09,RCB,KXP,M Chinnaswamy Stadium,Bangalore,RCB,field,KXP,RCB,N,KXP,32.0,No,Sandeep Sharma
+2014,2014-05-08,RR,SH,"Sardar Patel Stadium, Motera",Ahmedabad,RR,field,SH,RR,N,SH,32.0,No,B Kumar
+2014,2014-05-07,DD,KKR,Feroz Shah Kotla,Delhi,DD,bat,DD,KKR,N,KKR,8.0,No,G Gambhir
+2014,2014-05-07,KXP,CSK,Barabati Stadium,Cuttack,CSK,field,KXP,CSK,N,KXP,44.0,No,GJ Maxwell
+2014,2014-05-06,MI,RCB,Wankhede Stadium,Mumbai,RCB,field,MI,RCB,N,MI,19.0,No,RG Sharma
+2014,2014-05-05,DD,CSK,Feroz Shah Kotla,Delhi,CSK,field,DD,CSK,N,CSK,8.0,Yes,DR Smith
+2014,2014-05-05,RR,KKR,"Sardar Patel Stadium, Motera",Ahmedabad,KKR,field,RR,KKR,N,RR,10.0,No,PV Tambe
+2014,2014-05-04,RCB,SH,M Chinnaswamy Stadium,Bangalore,RCB,field,SH,RCB,N,RCB,4.0,Yes,AB de Villiers
+2014,2014-05-03,DD,RR,Feroz Shah Kotla,Delhi,RR,field,DD,RR,N,RR,7.0,Yes,KK Nair
+2014,2014-05-03,MI,KXP,Wankhede Stadium,Mumbai,KXP,bat,KXP,MI,N,MI,5.0,No,CJ Anderson
+2014,2014-05-02,CSK,KKR,JSCA International Stadium Complex,Ranchi,CSK,bat,CSK,KKR,N,CSK,34.0,Yes,RA Jadeja
+2014,2014-04-30,MI,SH,Dubai International Cricket Stadium,Mumbai,MI,field,SH,MI,N,SH,15.0,No,B Kumar
+2014,2014-04-29,KKR,RR,Sheikh Zayed Stadium,Abu Dhabi,RR,bat,RR,KKR,Y,RR,17.0,Yes,JP Faulkner
+2014,2014-04-28,KXP,RCB,Dubai International Cricket Stadium,Mumbai,KXP,field,RCB,KXP,N,KXP,5.0,Yes,Sandeep Sharma
+2014,2014-04-27,SH,CSK,Sharjah Cricket Stadium,Mumbai,SH,bat,SH,CSK,N,CSK,5.0,No,DR Smith
+2014,2014-04-27,DD,MI,Sharjah Cricket Stadium,Mumbai,MI,bat,MI,DD,N,DD,6.0,No,M Vijay
+2014,2014-04-26,KKR,KXP,Sheikh Zayed Stadium,Abu Dhabi,KKR,field,KXP,KKR,N,KXP,23.0,No,Sandeep Sharma
+2014,2014-04-26,RR,RCB,Sheikh Zayed Stadium,Abu Dhabi,RR,field,RCB,RR,N,RR,6.0,Yes,PV Tambe
+2014,2014-04-25,SH,DD,Dubai International Cricket Stadium,Mumbai,SH,bat,SH,DD,N,SH,4.0,Yes,AJ Finch
+2014,2014-04-25,CSK,MI,Dubai International Cricket Stadium,Mumbai,MI,bat,MI,CSK,N,CSK,7.0,No,MM Sharma
+2014,2014-04-24,RCB,KKR,Sharjah Cricket Stadium,Mumbai,RCB,field,KKR,RCB,N,KKR,2.0,No,CA Lynn
+2014,2014-04-23,RR,CSK,Dubai International Cricket Stadium,Mumbai,RR,field,CSK,RR,N,CSK,7.0,No,RA Jadeja
+2014,2014-04-22,KXP,SH,Sharjah Cricket Stadium,Mumbai,SH,field,KXP,SH,N,KXP,72.0,No,GJ Maxwell
+2014,2014-04-21,CSK,DD,Sheikh Zayed Stadium,Abu Dhabi,CSK,bat,CSK,DD,N,CSK,93.0,Yes,SK Raina
+2014,2014-04-20,RR,KXP,Sharjah Cricket Stadium,Mumbai,KXP,field,RR,KXP,N,KXP,7.0,Yes,GJ Maxwell
+2014,2014-04-19,KKR,DD,Dubai International Cricket Stadium,Mumbai,KKR,bat,KKR,DD,N,DD,4.0,No,JP Duminy
+2014,2014-04-19,RCB,MI,Dubai International Cricket Stadium,Mumbai,RCB,field,MI,RCB,N,RCB,7.0,Yes,PA Patel
+2014,2014-04-18,SH,RR,Sheikh Zayed Stadium,Abu Dhabi,RR,field,SH,RR,N,RR,4.0,Yes,AM Rahane
+2014,2014-04-18,CSK,KXP,Sheikh Zayed Stadium,Abu Dhabi,CSK,bat,CSK,KXP,N,KXP,6.0,No,GJ Maxwell
+2014,2014-04-17,DD,RCB,Sharjah Cricket Stadium,Mumbai,RCB,field,DD,RCB,N,RCB,8.0,Yes,YS Chahal
+2014,2014-04-16,MI,KKR,Sheikh Zayed Stadium,Abu Dhabi,KKR,bat,KKR,MI,N,KKR,41.0,Yes,JH Kallis
+2013,2013-05-26,CSK,MI,Eden Gardens,Kolkata,MI,bat,MI,CSK,N,MI,23.0,Yes,KA Pollard
+2013,2013-05-24,MI,RR,Eden Gardens,Kolkata,RR,bat,RR,MI,N,MI,4.0,No,Harbhajan Singh
+2013,2013-05-22,RR,SH,Feroz Shah Kotla,Delhi,SH,bat,SH,RR,N,RR,4.0,No,BJ Hodge
+2013,2013-05-21,CSK,MI,Feroz Shah Kotla,Delhi,CSK,bat,CSK,MI,N,CSK,48.0,Yes,MEK Hussey
+2013,2013-05-19,SH,KKR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KKR,bat,KKR,SH,N,SH,5.0,No,PA Patel
+2013,2013-05-19,PW,DD,Subrata Roy Sahara Stadium,Pune,PW,bat,PW,DD,N,PW,38.0,Yes,LJ Wright
+2013,2013-05-18,RCB,CSK,M Chinnaswamy Stadium,Bangalore,CSK,field,RCB,CSK,N,RCB,24.0,No,V Kohli
+2013,2013-05-18,KXP,MI,Himachal Pradesh Cricket Association Stadium,Dharamsala,MI,field,KXP,MI,N,KXP,50.0,No,Azhar Mahmood
+2013,2013-05-17,SH,RR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,bat,SH,RR,N,SH,23.0,Yes,A Mishra
+2013,2013-05-16,KXP,DD,Himachal Pradesh Cricket Association Stadium,Dharamsala,DD,field,KXP,DD,N,KXP,7.0,No,DA Miller
+2013,2013-05-15,MI,RR,Wankhede Stadium,Mumbai,RR,field,MI,RR,N,MI,14.0,No,AP Tare
+2013,2013-05-15,KKR,PW,JSCA International Stadium Complex,Ranchi,KKR,field,PW,KKR,N,PW,7.0,No,MK Pandey
+2013,2013-05-14,RCB,KXP,M Chinnaswamy Stadium,Bangalore,KXP,field,RCB,KXP,N,KXP,7.0,Yes,AC Gilchrist
+2013,2013-05-14,CSK,DD,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,DD,N,CSK,33.0,Yes,MS Dhoni
+2013,2013-05-13,MI,SH,Wankhede Stadium,Mumbai,SH,bat,SH,MI,N,MI,7.0,No,KA Pollard
+2013,2013-05-12,RR,CSK,Sawai Mansingh Stadium,Jaipur,RR,field,CSK,RR,N,RR,5.0,Yes,SR Watson
+2013,2013-05-12,KKR,RCB,JSCA International Stadium Complex,Ranchi,KKR,field,RCB,KKR,N,KKR,5.0,Yes,JH Kallis
+2013,2013-05-11,KXP,SH,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,SH,KXP,N,SH,30.0,No,PA Patel
+2013,2013-05-11,PW,MI,Subrata Roy Sahara Stadium,Pune,PW,bat,PW,MI,N,MI,5.0,No,MG Johnson
+2013,2013-05-10,DD,RCB,Feroz Shah Kotla,Delhi,DD,field,RCB,DD,N,RCB,4.0,No,JD Unadkat
+2013,2013-05-09,PW,KKR,Subrata Roy Sahara Stadium,Pune,KKR,bat,KKR,PW,N,KKR,46.0,Yes,G Gambhir
+2013,2013-05-09,KXP,RR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RR,field,KXP,RR,N,RR,8.0,Yes,KK Cooper
+2013,2013-05-08,SH,CSK,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SH,field,CSK,SH,N,CSK,77.0,No,SK Raina
+2013,2013-05-07,RR,DD,Sawai Mansingh Stadium,Jaipur,DD,bat,DD,RR,N,RR,9.0,No,AM Rahane
+2013,2013-05-07,MI,KKR,Wankhede Stadium,Mumbai,MI,bat,MI,KKR,N,MI,65.0,Yes,SR Tendulkar
+2013,2013-05-06,KXP,RCB,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,RCB,KXP,N,KXP,6.0,Yes,DA Miller
+2013,2013-05-05,RR,PW,Sawai Mansingh Stadium,Jaipur,PW,bat,PW,RR,N,RR,5.0,No,AM Rahane
+2013,2013-05-05,MI,CSK,Wankhede Stadium,Mumbai,MI,bat,MI,CSK,N,MI,60.0,Yes,MG Johnson
+2013,2013-05-04,SH,DD,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DD,bat,DD,SH,N,SH,6.0,No,DJG Sammy
+2013,2013-05-03,KKR,RR,Eden Gardens,Kolkata,RR,bat,RR,KKR,N,KKR,8.0,No,YK Pathan
+2013,2013-05-02,PW,RCB,Subrata Roy Sahara Stadium,Pune,RCB,bat,RCB,PW,N,RCB,17.0,Yes,AB de Villiers
+2013,2013-05-02,CSK,KXP,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,KXP,N,CSK,15.0,Yes,SK Raina
+2013,2013-05-01,DD,KKR,Shaheed Veer Narayan Singh International Stadium,Raipur,KKR,bat,KKR,DD,N,DD,7.0,No,DA Warner
+2013,2013-05-01,SH,MI,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,MI,bat,MI,SH,N,SH,7.0,No,I Sharma
+2013,2013-04-30,PW,CSK,Subrata Roy Sahara Stadium,Pune,CSK,bat,CSK,PW,N,CSK,37.0,Yes,MS Dhoni
+2013,2013-04-29,MI,KXP,Wankhede Stadium,Mumbai,MI,bat,MI,KXP,N,MI,4.0,Yes,RG Sharma
+2013,2013-04-29,RR,RCB,Sawai Mansingh Stadium,Jaipur,RR,field,RCB,RR,N,RR,4.0,Yes,SV Samson
+2013,2013-04-28,CSK,KKR,"MA Chidambaram Stadium, Chepauk",Chennai,KKR,field,CSK,KKR,N,CSK,14.0,No,MEK Hussey
+2013,2013-04-28,DD,PW,Shaheed Veer Narayan Singh International Stadium,Raipur,PW,field,DD,PW,N,DD,15.0,No,DA Warner
+2013,2013-04-27,MI,RCB,Wankhede Stadium,Mumbai,MI,bat,MI,RCB,N,MI,58.0,Yes,DR Smith
+2013,2013-04-27,RR,SH,Sawai Mansingh Stadium,Jaipur,SH,bat,SH,RR,N,RR,8.0,No,JP Faulkner
+2013,2013-04-26,KKR,KXP,Eden Gardens,Kolkata,KXP,bat,KXP,KKR,N,KKR,6.0,No,JH Kallis
+2013,2013-04-25,CSK,SH,"MA Chidambaram Stadium, Chepauk",Chennai,SH,bat,SH,CSK,N,CSK,5.0,No,MS Dhoni
+2013,2013-04-24,KKR,MI,Eden Gardens,Kolkata,KKR,bat,KKR,MI,N,MI,5.0,No,DR Smith
+2013,2013-04-23,RCB,PW,M Chinnaswamy Stadium,Bangalore,PW,field,RCB,PW,N,RCB,130.0,No,CH Gayle
+2013,2013-04-23,DD,KXP,Feroz Shah Kotla,Delhi,KXP,field,DD,KXP,N,KXP,5.0,Yes,Harmeet Singh
+2013,2013-04-22,CSK,RR,"MA Chidambaram Stadium, Chepauk",Chennai,RR,bat,RR,CSK,N,CSK,5.0,No,MEK Hussey
+2013,2013-04-21,KXP,PW,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,PW,KXP,N,KXP,7.0,Yes,DA Miller
+2013,2013-04-21,DD,MI,Feroz Shah Kotla,Delhi,MI,bat,MI,DD,N,DD,9.0,No,V Sehwag
+2013,2013-04-20,RCB,RR,M Chinnaswamy Stadium,Bangalore,RCB,field,RR,RCB,N,RCB,7.0,Yes,R Vinay Kumar
+2013,2013-04-20,KKR,CSK,Eden Gardens,Kolkata,KKR,bat,KKR,CSK,N,CSK,4.0,No,RA Jadeja
+2013,2013-04-19,SH,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KXP,bat,KXP,SH,N,SH,5.0,No,GH Vihari
+2013,2013-04-18,DD,CSK,Feroz Shah Kotla,Delhi,CSK,bat,CSK,DD,N,CSK,86.0,Yes,MEK Hussey
+2013,2013-04-17,RR,MI,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,MI,N,RR,87.0,Yes,AM Rahane
+2013,2013-04-17,PW,SH,Maharashtra Cricket Association Stadium,Pune,PW,field,SH,PW,N,SH,11.0,No,A Mishra
+2013,2013-04-16,KXP,KKR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KKR,field,KXP,KKR,N,KXP,4.0,No,MS Gony
+2013,2013-04-16,RCB,DD,M Chinnaswamy Stadium,Bangalore,RCB,field,DD,RCB,Y,RCB,17.0,Yes,V Kohli
+2013,2013-04-15,CSK,PW,"MA Chidambaram Stadium, Chepauk",Chennai,PW,bat,PW,CSK,N,PW,24.0,Yes,SPD Smith
+2013,2013-04-14,RR,KXP,Sawai Mansingh Stadium,Jaipur,RR,field,KXP,RR,N,RR,6.0,Yes,JP Faulkner
+2013,2013-04-14,KKR,SH,Eden Gardens,Kolkata,KKR,bat,KKR,SH,N,KKR,48.0,Yes,G Gambhir
+2013,2013-04-13,CSK,RCB,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,field,RCB,CSK,N,CSK,4.0,Yes,RA Jadeja
+2013,2013-04-13,MI,PW,Wankhede Stadium,Mumbai,MI,bat,MI,PW,N,MI,41.0,Yes,RG Sharma
+2013,2013-04-12,DD,SH,Feroz Shah Kotla,Delhi,DD,bat,DD,SH,N,SH,3.0,No,A Mishra
+2013,2013-04-11,RCB,KKR,M Chinnaswamy Stadium,Bangalore,RCB,field,KKR,RCB,N,RCB,8.0,Yes,CH Gayle
+2013,2013-04-11,PW,RR,Subrata Roy Sahara Stadium,Pune,RR,bat,RR,PW,N,PW,7.0,No,AJ Finch
+2013,2013-04-10,KXP,CSK,"Punjab Cricket Association Stadium, Mohali",Chandigarh,CSK,field,KXP,CSK,N,CSK,10.0,Yes,MEK Hussey
+2013,2013-04-09,MI,DD,Wankhede Stadium,Mumbai,MI,bat,MI,DD,N,MI,44.0,Yes,KD Karthik
+2013,2013-04-09,RCB,SH,M Chinnaswamy Stadium,Bangalore,SH,bat,SH,RCB,N,RCB,7.0,No,V Kohli
+2013,2013-04-08,RR,KKR,Sawai Mansingh Stadium,Jaipur,KKR,field,RR,KKR,N,RR,19.0,No,SK Trivedi
+2013,2013-04-07,SH,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RCB,bat,RCB,SH,Y,SH,17.0,No,GH Vihari
+2013,2013-04-07,PW,KXP,Subrata Roy Sahara Stadium,Pune,PW,bat,PW,KXP,N,KXP,8.0,No,M Vohra
+2013,2013-04-06,CSK,MI,"MA Chidambaram Stadium, Chepauk",Chennai,MI,bat,MI,CSK,N,MI,9.0,Yes,KA Pollard
+2013,2013-04-06,DD,RR,Feroz Shah Kotla,Delhi,RR,bat,RR,DD,N,RR,5.0,Yes,R Dravid
+2013,2013-04-05,SH,PW,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,PW,field,SH,PW,N,SH,22.0,No,A Mishra
+2013,2013-04-04,RCB,MI,M Chinnaswamy Stadium,Bangalore,MI,field,RCB,MI,N,RCB,2.0,No,CH Gayle
+2013,2013-04-03,KKR,DD,Eden Gardens,Kolkata,KKR,field,DD,KKR,N,KKR,6.0,Yes,SP Narine
+2012,2012-05-27,KKR,CSK,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,KKR,N,KKR,5.0,No,MS Bisla
+2012,2012-05-25,DD,CSK,"MA Chidambaram Stadium, Chepauk",Chennai,DD,field,CSK,DD,N,CSK,86.0,No,M Vijay
+2012,2012-05-23,CSK,MI,M Chinnaswamy Stadium,Bangalore,MI,field,CSK,MI,N,CSK,38.0,No,MS Dhoni
+2012,2012-05-22,DD,KKR,Subrata Roy Sahara Stadium,Pune,KKR,bat,KKR,DD,N,KKR,18.0,Yes,YK Pathan
+2012,2012-05-20,RR,MI,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,MI,N,MI,10.0,No,DR Smith
+2012,2012-05-20,DC,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RCB,field,DC,RCB,N,DC,9.0,No,DW Steyn
+2012,2012-05-19,PW,KKR,Subrata Roy Sahara Stadium,Pune,KKR,bat,KKR,PW,N,KKR,34.0,Yes,Shakib Al Hasan
+2012,2012-05-19,KXP,DD,Himachal Pradesh Cricket Association Stadium,Dharamsala,DD,field,KXP,DD,N,DD,6.0,Yes,UT Yadav
+2012,2012-05-18,DC,RR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RR,bat,RR,DC,N,DC,5.0,No,DW Steyn
+2012,2012-05-17,KXP,CSK,Himachal Pradesh Cricket Association Stadium,Dharamsala,KXP,field,CSK,KXP,N,KXP,6.0,Yes,AC Gilchrist
+2012,2012-05-17,DD,RCB,Feroz Shah Kotla,Delhi,DD,field,RCB,DD,N,RCB,21.0,No,CH Gayle
+2012,2012-05-16,MI,KKR,Wankhede Stadium,Mumbai,MI,field,KKR,MI,N,KKR,32.0,No,SP Narine
+2012,2012-05-15,DD,KXP,Feroz Shah Kotla,Delhi,KXP,bat,KXP,DD,N,DD,5.0,No,UT Yadav
+2012,2012-05-14,KKR,CSK,Eden Gardens,Kolkata,CSK,field,KKR,CSK,N,CSK,5.0,Yes,MEK Hussey
+2012,2012-05-14,RCB,MI,M Chinnaswamy Stadium,Bangalore,MI,field,RCB,MI,N,MI,5.0,Yes,AT Rayudu
+2012,2012-05-13,KXP,DC,"Punjab Cricket Association Stadium, Mohali",Chandigarh,DC,bat,DC,KXP,N,KXP,4.0,No,DJ Hussey
+2012,2012-05-13,RR,PW,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,PW,N,RR,45.0,Yes,A Chandila
+2012,2012-05-12,CSK,DD,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,field,DD,CSK,N,CSK,9.0,Yes,BW Hilfenhaus
+2012,2012-05-12,KKR,MI,Eden Gardens,Kolkata,MI,bat,MI,KKR,N,MI,27.0,Yes,RG Sharma
+2012,2012-05-11,PW,RCB,Subrata Roy Sahara Stadium,Pune,PW,field,RCB,PW,N,RCB,35.0,No,CH Gayle
+2012,2012-05-10,RR,CSK,Sawai Mansingh Stadium,Jaipur,CSK,field,RR,CSK,N,CSK,4.0,Yes,BW Hilfenhaus
+2012,2012-05-10,DC,DD,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,bat,DC,DD,N,DD,9.0,No,DA Warner
+2012,2012-05-09,MI,RCB,Wankhede Stadium,Mumbai,RCB,field,MI,RCB,N,RCB,9.0,Yes,CH Gayle
+2012,2012-05-08,DC,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,field,KXP,DC,N,KXP,25.0,No,Mandeep Singh
+2012,2012-05-08,PW,RR,Subrata Roy Sahara Stadium,Pune,PW,bat,PW,RR,N,RR,7.0,No,SR Watson
+2012,2012-05-07,DD,KKR,Feroz Shah Kotla,Delhi,DD,bat,DD,KKR,N,KKR,6.0,No,JH Kallis
+2012,2012-05-06,RCB,DC,M Chinnaswamy Stadium,Bangalore,RCB,field,DC,RCB,N,RCB,5.0,Yes,AB de Villiers
+2012,2012-05-06,MI,CSK,Wankhede Stadium,Mumbai,MI,field,CSK,MI,N,MI,2.0,Yes,DR Smith
+2012,2012-05-05,KXP,RR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RR,bat,RR,KXP,N,RR,43.0,Yes,SR Watson
+2012,2012-05-05,KKR,PW,Eden Gardens,Kolkata,KKR,bat,KKR,PW,N,KKR,7.0,Yes,SP Narine
+2012,2012-05-04,CSK,DC,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,DC,N,CSK,10.0,Yes,SK Raina
+2012,2012-05-03,PW,MI,Subrata Roy Sahara Stadium,Pune,MI,bat,MI,PW,N,MI,1.0,Yes,SL Malinga
+2012,2012-05-02,RCB,KXP,M Chinnaswamy Stadium,Bangalore,KXP,field,RCB,KXP,N,KXP,4.0,Yes,Azhar Mahmood
+2012,2012-05-01,RR,DD,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,DD,N,DD,6.0,No,P Negi
+2012,2012-05-01,DC,PW,Barabati Stadium,Cuttack,DC,bat,DC,PW,N,DC,13.0,Yes,KC Sangakkara
+2012,2012-04-30,CSK,KKR,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,KKR,N,KKR,5.0,No,G Gambhir
+2012,2012-04-29,MI,DC,Wankhede Stadium,Mumbai,MI,field,DC,MI,N,MI,5.0,Yes,DW Steyn
+2012,2012-04-29,DD,RR,Feroz Shah Kotla,Delhi,DD,bat,DD,RR,N,DD,1.0,Yes,V Sehwag
+2012,2012-04-28,KKR,RCB,Eden Gardens,Kolkata,KKR,bat,KKR,RCB,N,KKR,47.0,Yes,G Gambhir
+2012,2012-04-28,CSK,KXP,"MA Chidambaram Stadium, Chepauk",Chennai,KXP,bat,KXP,CSK,N,KXP,7.0,Yes,Mandeep Singh
+2012,2012-04-27,DD,MI,Feroz Shah Kotla,Delhi,MI,field,DD,MI,N,DD,37.0,No,V Sehwag
+2012,2012-04-26,PW,DC,Subrata Roy Sahara Stadium,Pune,DC,bat,DC,PW,N,DC,18.0,Yes,CL White
+2012,2012-04-25,KXP,MI,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,bat,KXP,MI,N,MI,4.0,No,AT Rayudu
+2012,2012-04-24,PW,DD,Subrata Roy Sahara Stadium,Pune,PW,bat,PW,DD,N,DD,8.0,No,V Sehwag
+2012,2012-04-23,RR,RCB,Sawai Mansingh Stadium,Jaipur,RR,field,RCB,RR,N,RCB,46.0,No,AB de Villiers
+2012,2012-04-22,DC,KKR,Barabati Stadium,Cuttack,KKR,field,DC,KKR,N,KKR,5.0,Yes,B Lee
+2012,2012-04-22,MI,KXP,Wankhede Stadium,Mumbai,MI,bat,MI,KXP,N,KXP,6.0,No,SE Marsh
+2012,2012-04-21,DD,PW,Feroz Shah Kotla,Delhi,DD,field,PW,DD,N,PW,20.0,No,SC Ganguly
+2012,2012-04-21,CSK,RR,"MA Chidambaram Stadium, Chepauk",Chennai,RR,bat,RR,CSK,N,CSK,7.0,No,F du Plessis
+2012,2012-04-20,KXP,RCB,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RCB,field,KXP,RCB,N,RCB,5.0,Yes,CH Gayle
+2012,2012-04-19,CSK,PW,"MA Chidambaram Stadium, Chepauk",Chennai,PW,field,CSK,PW,N,CSK,13.0,No,KMDN Kulasekara
+2012,2012-04-19,DD,DC,Feroz Shah Kotla,Delhi,DC,bat,DC,DD,N,DD,5.0,No,KP Pietersen
+2012,2012-04-18,KXP,KKR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,bat,KXP,KKR,N,KKR,8.0,No,G Gambhir
+2012,2012-04-17,RR,DC,Sawai Mansingh Stadium,Jaipur,DC,bat,DC,RR,N,RR,5.0,No,BJ Hodge
+2012,2012-04-17,RCB,PW,M Chinnaswamy Stadium,Bangalore,PW,bat,PW,RCB,N,RCB,6.0,No,CH Gayle
+2012,2012-04-16,MI,DD,Wankhede Stadium,Mumbai,DD,field,MI,DD,N,DD,7.0,Yes,S Nadeem
+2012,2012-04-15,RCB,RR,M Chinnaswamy Stadium,Bangalore,RR,bat,RR,RCB,N,RR,59.0,Yes,AM Rahane
+2012,2012-04-15,KKR,KXP,Eden Gardens,Kolkata,KKR,field,KXP,KKR,N,KXP,2.0,No,SP Narine
+2012,2012-04-14,PW,CSK,Subrata Roy Sahara Stadium,Pune,CSK,bat,CSK,PW,N,PW,7.0,No,JD Ryder
+2012,2012-04-13,KKR,RR,Eden Gardens,Kolkata,RR,bat,RR,KKR,N,KKR,5.0,No,Shakib Al Hasan
+2012,2012-04-12,KXP,PW,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,PW,KXP,N,KXP,7.0,Yes,AD Mascarenhas
+2012,2012-04-12,CSK,RCB,"MA Chidambaram Stadium, Chepauk",Chennai,RCB,bat,RCB,CSK,N,CSK,5.0,No,F du Plessis
+2012,2012-04-11,MI,RR,Wankhede Stadium,Mumbai,RR,field,MI,RR,N,MI,27.0,No,KA Pollard
+2012,2012-04-10,DD,CSK,Feroz Shah Kotla,Delhi,DD,field,CSK,DD,N,DD,8.0,Yes,M Morkel
+2012,2012-04-10,RCB,KKR,M Chinnaswamy Stadium,Bangalore,RCB,field,KKR,RCB,N,KKR,42.0,No,L Balaji
+2012,2012-04-09,DC,MI,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,DC,bat,DC,MI,N,MI,5.0,No,RG Sharma
+2012,2012-04-08,PW,KXP,Subrata Roy Sahara Stadium,Pune,PW,bat,PW,KXP,N,PW,22.0,Yes,MN Samuels
+2012,2012-04-08,RR,KKR,Sawai Mansingh Stadium,Jaipur,KKR,field,RR,KKR,N,RR,22.0,No,BJ Hodge
+2012,2012-04-07,RCB,DD,M Chinnaswamy Stadium,Bangalore,DD,field,RCB,DD,N,RCB,20.0,No,AB de Villiers
+2012,2012-04-07,DC,CSK,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,DC,field,CSK,DC,N,CSK,74.0,No,RA Jadeja
+2012,2012-04-06,RR,KXP,Sawai Mansingh Stadium,Jaipur,KXP,field,RR,KXP,N,RR,31.0,No,AM Rahane
+2012,2012-04-06,MI,PW,Wankhede Stadium,Mumbai,MI,field,PW,MI,N,PW,28.0,No,SPD Smith
+2012,2012-04-05,KKR,DD,Eden Gardens,Kolkata,DD,field,KKR,DD,N,DD,8.0,Yes,IK Pathan
+2012,2012-04-04,CSK,MI,"MA Chidambaram Stadium, Chepauk",Chennai,MI,field,CSK,MI,N,MI,8.0,Yes,RE Levi
+2011,2011-05-28,CSK,RCB,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,RCB,N,CSK,58.0,Yes,M Vijay
+2011,2011-05-27,RCB,MI,"MA Chidambaram Stadium, Chepauk",Chennai,MI,field,RCB,MI,N,RCB,43.0,No,CH Gayle
+2011,2011-05-25,MI,KKR,Wankhede Stadium,Mumbai,MI,field,KKR,MI,N,MI,4.0,Yes,MM Patel
+2011,2011-05-24,RCB,CSK,Wankhede Stadium,Mumbai,CSK,field,RCB,CSK,N,CSK,6.0,Yes,SK Raina
+2011,2011-05-22,KKR,MI,Eden Gardens,Kolkata,MI,field,KKR,MI,N,MI,5.0,Yes,JEC Franklin
+2011,2011-05-22,RCB,CSK,M Chinnaswamy Stadium,Bangalore,RCB,field,CSK,RCB,N,RCB,8.0,Yes,CH Gayle
+2011,2011-05-21,DD,PW,Feroz Shah Kotla,Delhi,DD,bat,DD,PW,N,MI,17.0,No,AB de Villiers
+2011,2011-05-21,KXP,DC,Himachal Pradesh Cricket Association Stadium,Dharamsala,KXP,field,DC,KXP,N,DC,82.0,No,S Dhawan
+2011,2011-05-20,MI,RR,Wankhede Stadium,Mumbai,MI,bat,MI,RR,N,RR,10.0,No,SR Watson
+2011,2011-05-19,PW,KKR,Dr DY Patil Sports Academy,Mumbai,KKR,field,PW,KKR,N,KKR,7.0,Yes,YK Pathan
+2011,2011-05-18,CSK,KTK,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,KTK,N,CSK,11.0,Yes,WP Saha
+2011,2011-05-17,KXP,RCB,Himachal Pradesh Cricket Association Stadium,Dharamsala,KXP,bat,KXP,RCB,N,KXP,111.0,Yes,AC Gilchrist
+2011,2011-05-16,PW,DC,Dr DY Patil Sports Academy,Mumbai,DC,field,PW,DC,N,DC,6.0,Yes,A Mishra
+2011,2011-05-15,KTK,RR,Holkar Cricket Stadium,Indore,KTK,field,RR,KTK,N,KTK,8.0,Yes,BJ Hodge
+2011,2011-05-15,KXP,DD,Himachal Pradesh Cricket Association Stadium,Dharamsala,DD,field,KXP,DD,N,KXP,29.0,No,PP Chawla
+2011,2011-05-14,MI,DC,Wankhede Stadium,Mumbai,DC,bat,DC,MI,N,DC,10.0,Yes,A Mishra
+2011,2011-05-14,RCB,KKR,M Chinnaswamy Stadium,Bangalore,RCB,field,KKR,RCB,N,RCB,4.0,Yes,CH Gayle
+2011,2011-05-13,KTK,KXP,Holkar Cricket Stadium,Indore,KXP,field,KTK,KXP,N,KXP,6.0,Yes,KD Karthik
+2011,2011-05-12,CSK,DD,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,DD,N,CSK,18.0,Yes,MS Dhoni
+2011,2011-05-11,RR,RCB,Sawai Mansingh Stadium,Jaipur,RCB,field,RR,RCB,N,RCB,9.0,Yes,S Aravind
+2011,2011-05-10,KXP,MI,"Punjab Cricket Association Stadium, Mohali",Chandigarh,MI,field,KXP,MI,N,KXP,76.0,No,BA Bhatt
+2011,2011-05-10,DC,PW,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,bat,DC,PW,N,PW,6.0,No,MR Marsh
+2011,2011-05-09,RR,CSK,Sawai Mansingh Stadium,Jaipur,RR,field,CSK,RR,N,CSK,63.0,No,M Vijay
+2011,2011-05-08,KXP,PW,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,bat,KXP,PW,N,PW,5.0,No,R Sharma
+2011,2011-05-08,RCB,KTK,M Chinnaswamy Stadium,Bangalore,KTK,bat,KTK,RCB,N,RCB,9.0,No,CH Gayle
+2011,2011-05-07,MI,DD,Wankhede Stadium,Mumbai,DD,field,MI,DD,N,MI,32.0,No,AT Rayudu
+2011,2011-05-07,KKR,CSK,Eden Gardens,Kolkata,CSK,bat,CSK,KKR,N,KKR,10.0,No,Iqbal Abdulla
+2011,2011-05-06,RCB,KXP,M Chinnaswamy Stadium,Bangalore,KXP,field,RCB,KXP,N,RCB,85.0,No,CH Gayle
+2011,2011-05-05,DC,DD,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DD,field,DC,DD,N,DD,4.0,Yes,V Sehwag
+2011,2011-05-05,KTK,KKR,Nehru Stadium,Kochi,KKR,field,KTK,KKR,N,KTK,17.0,No,BJ Hodge
+2011,2011-05-04,PW,MI,Dr DY Patil Sports Academy,Mumbai,PW,field,MI,PW,N,MI,21.0,No,R Sharma
+2011,2011-05-04,CSK,RR,"MA Chidambaram Stadium, Chepauk",Chennai,RR,bat,RR,CSK,N,CSK,8.0,No,MEK Hussey
+2011,2011-05-03,DC,KKR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,field,KKR,DC,N,KKR,20.0,No,YK Pathan
+2011,2011-05-02,DD,KTK,Feroz Shah Kotla,Delhi,KTK,field,DD,KTK,N,KTK,7.0,Yes,P Parameswaran
+2011,2011-05-02,MI,KXP,Wankhede Stadium,Mumbai,KXP,field,MI,KXP,N,MI,23.0,No,KA Pollard
+2011,2011-05-01,CSK,DC,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,DC,N,CSK,19.0,Yes,JA Morkel
+2011,2011-05-01,RR,PW,Sawai Mansingh Stadium,Jaipur,RR,field,PW,RR,N,RR,6.0,Yes,LRPL Taylor
+2011,2011-04-30,KKR,KXP,Eden Gardens,Kolkata,KKR,field,KXP,KKR,N,KKR,8.0,Yes,Iqbal Abdulla
+2011,2011-04-30,KTK,DD,Nehru Stadium,Kochi,DD,bat,DD,KTK,N,DD,38.0,Yes,V Sehwag
+2011,2011-04-29,RR,MI,Sawai Mansingh Stadium,Jaipur,RR,field,MI,RR,N,RR,7.0,Yes,J Botha
+2011,2011-04-29,RCB,PW,M Chinnaswamy Stadium,Bangalore,PW,field,RCB,PW,N,RCB,26.0,No,V Kohli
+2011,2011-04-28,DD,KKR,Feroz Shah Kotla,Delhi,DD,field,KKR,DD,N,KKR,17.0,No,MK Tiwary
+2011,2011-04-27,KTK,DC,Nehru Stadium,Kochi,KTK,field,DC,KTK,N,DC,55.0,No,I Sharma
+2011,2011-04-27,PW,CSK,Dr DY Patil Sports Academy,Mumbai,PW,bat,PW,CSK,N,CSK,8.0,No,DE Bollinger
+2011,2011-04-26,DD,RCB,Feroz Shah Kotla,Delhi,RCB,field,DD,RCB,N,RCB,3.0,Yes,V Kohli
+2011,2011-04-25,CSK,PW,"MA Chidambaram Stadium, Chepauk",Chennai,PW,field,CSK,PW,N,CSK,25.0,No,MEK Hussey
+2011,2011-04-24,RR,KTK,Sawai Mansingh Stadium,Jaipur,RR,field,KTK,RR,N,RR,8.0,Yes,SK Warne
+2011,2011-04-24,DC,MI,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,field,MI,DC,N,MI,37.0,No,SL Malinga
+2011,2011-04-23,DD,KXP,Feroz Shah Kotla,Delhi,KXP,field,DD,KXP,N,DD,29.0,No,DA Warner
+2011,2011-04-22,KKR,RCB,Eden Gardens,Kolkata,RCB,field,KKR,RCB,N,RCB,9.0,Yes,CH Gayle
+2011,2011-04-22,MI,CSK,Wankhede Stadium,Mumbai,CSK,field,MI,CSK,N,MI,8.0,No,Harbhajan Singh
+2011,2011-04-21,KXP,RR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RR,field,KXP,RR,N,KXP,48.0,No,SE Marsh
+2011,2011-04-20,MI,PW,Wankhede Stadium,Mumbai,PW,bat,PW,MI,N,MI,7.0,No,MM Patel
+2011,2011-04-20,KKR,KTK,Eden Gardens,Kolkata,KKR,field,KTK,KKR,N,KTK,6.0,No,DPMD Jayawardene
+2011,2011-04-19,DD,DC,Feroz Shah Kotla,Delhi,DC,bat,DC,DD,N,DC,16.0,Yes,S Sohal
+2011,2011-04-18,KTK,CSK,Nehru Stadium,Kochi,KTK,field,CSK,KTK,N,KTK,7.0,Yes,BB McCullum
+2011,2011-04-17,KKR,RR,Eden Gardens,Kolkata,KKR,field,RR,KKR,N,KKR,8.0,Yes,L Balaji
+2011,2011-04-17,PW,DD,Dr DY Patil Sports Academy,Mumbai,DD,field,PW,DD,N,DD,3.0,Yes,Yuvraj Singh
+2011,2011-04-16,DC,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KXP,field,DC,KXP,N,KXP,8.0,Yes,PC Valthaty
+2011,2011-04-16,CSK,RCB,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,RCB,N,CSK,21.0,Yes,MEK Hussey
+2011,2011-04-15,MI,KTK,Wankhede Stadium,Mumbai,KTK,field,MI,KTK,N,KTK,8.0,Yes,BB McCullum
+2011,2011-04-15,RR,KKR,Sawai Mansingh Stadium,Jaipur,KKR,field,RR,KKR,N,KKR,9.0,Yes,G Gambhir
+2011,2011-04-14,DC,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RCB,field,DC,RCB,N,DC,33.0,No,DW Steyn
+2011,2011-04-13,PW,KTK,Dr DY Patil Sports Academy,Mumbai,KTK,bat,KTK,PW,N,PW,4.0,No,MD Mishra
+2011,2011-04-13,KXP,CSK,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,CSK,KXP,N,KXP,6.0,Yes,PC Valthaty
+2011,2011-04-12,RCB,MI,M Chinnaswamy Stadium,Bangalore,MI,field,RCB,MI,N,MI,9.0,Yes,SR Tendulkar
+2011,2011-04-12,RR,DD,Sawai Mansingh Stadium,Jaipur,DD,bat,DD,RR,N,RR,6.0,No,SK Warne
+2011,2011-04-11,KKR,DC,Eden Gardens,Kolkata,KKR,bat,KKR,DC,N,KKR,9.0,Yes,JH Kallis
+2011,2011-04-10,DD,MI,Feroz Shah Kotla,Delhi,DD,bat,DD,MI,N,MI,8.0,No,SL Malinga
+2011,2011-04-10,PW,KXP,Dr DY Patil Sports Academy,Mumbai,KXP,bat,KXP,PW,N,PW,7.0,No,SB Wagh
+2011,2011-04-09,KTK,RCB,Nehru Stadium,Kochi,KTK,bat,KTK,RCB,N,RCB,6.0,No,AB de Villiers
+2011,2011-04-09,DC,RR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RR,field,DC,RR,N,RR,8.0,Yes,SK Trivedi
+2011,2011-04-08,CSK,KKR,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,KKR,N,CSK,2.0,Yes,S Anirudha
+2009/10,2010-04-25,CSK,MI,Dr DY Patil Sports Academy,Mumbai,CSK,bat,CSK,MI,N,CSK,22.0,Yes,SK Raina
+2009/10,2010-04-24,RCB,DC,Dr DY Patil Sports Academy,Mumbai,DC,bat,DC,RCB,N,RCB,9.0,No,A Kumble
+2009/10,2010-04-22,CSK,DC,Dr DY Patil Sports Academy,Mumbai,CSK,bat,CSK,DC,N,CSK,38.0,Yes,DE Bollinger
+2009/10,2010-04-21,RCB,MI,Dr DY Patil Sports Academy,Mumbai,MI,bat,MI,RCB,N,MI,35.0,Yes,KA Pollard
+2009/10,2010-04-19,KKR,MI,Eden Gardens,Kolkata,MI,bat,MI,KKR,N,KKR,9.0,No,M Kartik
+2009/10,2010-04-18,DD,DC,Feroz Shah Kotla,Delhi,DC,bat,DC,DD,N,DC,11.0,Yes,A Symonds
+2009/10,2010-04-18,KXP,CSK,Himachal Pradesh Cricket Association Stadium,Dharamsala,CSK,field,KXP,CSK,N,CSK,6.0,Yes,MS Dhoni
+2009/10,2010-04-17,KKR,RR,Eden Gardens,Kolkata,RR,bat,RR,KKR,N,KKR,8.0,No,JD Unadkat
+2009/10,2010-04-17,RCB,MI,M Chinnaswamy Stadium,Bangalore,RCB,field,MI,RCB,N,MI,57.0,No,R McLaren
+2009/10,2010-04-16,KXP,DC,Himachal Pradesh Cricket Association Stadium,Dharamsala,DC,field,KXP,DC,N,DC,5.0,Yes,RG Sharma
+2009/10,2010-04-15,CSK,DD,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,DD,N,DD,6.0,No,G Gambhir
+2009/10,2010-04-14,RR,RCB,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,RCB,N,RCB,5.0,No,KP Pietersen
+2009/10,2010-04-13,CSK,KKR,"MA Chidambaram Stadium, Chepauk",Chennai,KKR,bat,KKR,CSK,N,CSK,9.0,No,R Ashwin
+2009/10,2010-04-13,MI,DD,Brabourne Stadium,Mumbai,MI,bat,MI,DD,N,MI,39.0,Yes,KA Pollard
+2009/10,2010-04-12,DC,RCB,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,RCB,field,DC,RCB,N,DC,13.0,No,Harmeet Singh
+2009/10,2010-04-11,DD,KXP,Feroz Shah Kotla,Delhi,DD,bat,DD,KXP,N,KXP,7.0,No,PP Chawla
+2009/10,2010-04-11,RR,MI,Sawai Mansingh Stadium,Jaipur,RR,field,MI,RR,N,MI,37.0,No,SR Tendulkar
+2009/10,2010-04-10,RCB,KKR,M Chinnaswamy Stadium,Bangalore,RCB,field,KKR,RCB,N,RCB,7.0,Yes,R Vinay Kumar
+2009/10,2010-04-10,DC,CSK,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,CSK,bat,CSK,DC,N,DC,6.0,No,RJ Harris
+2009/10,2010-04-09,KXP,MI,"Punjab Cricket Association Stadium, Mohali",Chandigarh,MI,bat,MI,KXP,N,KXP,6.0,No,KC Sangakkara
+2009/10,2010-04-08,RCB,DC,M Chinnaswamy Stadium,Bangalore,DC,field,RCB,DC,N,DC,7.0,Yes,TL Suman
+2009/10,2010-04-07,KKR,DD,Eden Gardens,Kolkata,KKR,bat,KKR,DD,N,KKR,14.0,Yes,SC Ganguly
+2009/10,2010-04-07,RR,KXP,Sawai Mansingh Stadium,Jaipur,KXP,bat,KXP,RR,N,RR,9.0,No,MJ Lumb
+2009/10,2010-04-06,CSK,MI,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,MI,N,CSK,24.0,Yes,SK Raina
+2009/10,2010-04-05,DC,RR,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,RR,bat,RR,DC,N,RR,2.0,Yes,SK Warne
+2009/10,2010-04-04,DD,RCB,Feroz Shah Kotla,Delhi,DD,bat,DD,RCB,N,DD,37.0,Yes,PD Collingwood
+2009/10,2010-04-04,KKR,KXP,Eden Gardens,Kolkata,KKR,bat,KKR,KXP,N,KXP,8.0,No,DPMD Jayawardene
+2009/10,2010-04-03,MI,DC,Brabourne Stadium,Mumbai,MI,bat,MI,DC,N,MI,63.0,Yes,AT Rayudu
+2009/10,2010-04-03,CSK,RR,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,RR,N,CSK,23.0,Yes,M Vijay
+2009/10,2010-04-02,KXP,RCB,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,bat,KXP,RCB,N,RCB,6.0,No,KP Pietersen
+2009/10,2010-04-01,KKR,DC,Eden Gardens,Kolkata,KKR,bat,KKR,DC,N,KKR,24.0,Yes,SC Ganguly
+2009/10,2010-03-31,DD,RR,Feroz Shah Kotla,Delhi,DD,bat,DD,RR,N,DD,67.0,Yes,KD Karthik
+2009/10,2010-03-31,CSK,RCB,"MA Chidambaram Stadium, Chepauk",Chennai,RCB,bat,RCB,CSK,N,CSK,5.0,No,M Vijay
+2009/10,2010-03-30,MI,KXP,Brabourne Stadium,Mumbai,MI,field,KXP,MI,N,MI,4.0,Yes,SL Malinga
+2009/10,2010-03-29,DD,KKR,Feroz Shah Kotla,Delhi,DD,bat,DD,KKR,N,DD,40.0,Yes,DA Warner
+2009/10,2010-03-28,DC,MI,Dr DY Patil Sports Academy,Mumbai,DC,field,MI,DC,N,MI,41.0,No,Harbhajan Singh
+2009/10,2010-03-28,RR,CSK,"Sardar Patel Stadium, Motera",Ahmedabad,RR,bat,RR,CSK,N,RR,17.0,Yes,NV Ojha
+2009/10,2010-03-27,KXP,KKR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KKR,bat,KKR,KXP,N,KKR,39.0,Yes,MK Tiwary
+2009/10,2010-03-26,RR,DC,"Sardar Patel Stadium, Motera",Ahmedabad,DC,bat,DC,RR,N,RR,8.0,No,YK Pathan
+2009/10,2010-03-25,RCB,DD,M Chinnaswamy Stadium,Bangalore,RCB,field,DD,RCB,N,DD,17.0,No,KM Jadhav
+2009/10,2010-03-25,CSK,MI,"Brabourne Stadium, Mumbai",Mumbai,MI,field,CSK,MI,N,MI,5.0,Yes,SR Tendulkar
+2009/10,2010-03-24,KXP,RR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,RR,KXP,N,RR,31.0,No,AC Voges
+2009/10,2010-03-23,RCB,CSK,M Chinnaswamy Stadium,Bangalore,CSK,field,RCB,CSK,N,RCB,36.0,No,RV Uthappa
+2009/10,2010-03-22,MI,KKR,Brabourne Stadium,Mumbai,KKR,bat,KKR,MI,N,MI,7.0,No,SR Tendulkar
+2009/10,2010-03-21,CSK,KXP,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,field,KXP,CSK,Y,KXP,17.0,No,J Theron
+2009/10,2010-03-21,DC,DD,Barabati Stadium,Cuttack,DC,bat,DC,DD,N,DC,10.0,Yes,A Symonds
+2009/10,2010-03-20,RR,KKR,"Sardar Patel Stadium, Motera",Ahmedabad,RR,bat,RR,KKR,N,RR,34.0,Yes,AA Jhunjhunwala
+2009/10,2010-03-20,MI,RCB,Brabourne Stadium,Mumbai,MI,bat,MI,RCB,N,RCB,7.0,No,JH Kallis
+2009/10,2010-03-19,DD,CSK,Feroz Shah Kotla,Delhi,DD,bat,DD,CSK,N,CSK,5.0,No,ML Hayden
+2009/10,2010-03-19,DC,KXP,Barabati Stadium,Cuttack,KXP,field,DC,KXP,N,DC,6.0,No,A Symonds
+2009/10,2010-03-18,RCB,RR,M Chinnaswamy Stadium,Bangalore,RCB,field,RR,RCB,N,RCB,10.0,Yes,JH Kallis
+2009/10,2010-03-17,DD,MI,Feroz Shah Kotla,Delhi,DD,field,MI,DD,N,MI,98.0,No,SR Tendulkar
+2009/10,2010-03-16,KKR,CSK,Eden Gardens,Kolkata,CSK,bat,CSK,KKR,N,CSK,55.0,Yes,MS Dhoni
+2009/10,2010-03-16,RCB,KXP,M Chinnaswamy Stadium,Bangalore,KXP,bat,KXP,RCB,N,RCB,8.0,No,JH Kallis
+2009/10,2010-03-15,RR,DD,"Sardar Patel Stadium, Motera",Ahmedabad,DD,field,RR,DD,N,DD,6.0,Yes,V Sehwag
+2009/10,2010-03-14,CSK,DC,"MA Chidambaram Stadium, Chepauk",Chennai,DC,bat,DC,CSK,N,DC,31.0,Yes,WPUJC Vaas
+2009/10,2010-03-14,KKR,RCB,Eden Gardens,Kolkata,KKR,field,RCB,KKR,N,KKR,7.0,Yes,MK Tiwary
+2009/10,2010-03-13,KXP,DD,"Punjab Cricket Association Stadium, Mohali",Chandigarh,DD,field,KXP,DD,N,DD,5.0,Yes,G Gambhir
+2009/10,2010-03-13,MI,RR,Brabourne Stadium,Mumbai,MI,bat,MI,RR,N,MI,4.0,Yes,YK Pathan
+2009/10,2010-03-12,DC,KKR,Dr DY Patil Sports Academy,Mumbai,DC,field,KKR,DC,N,KKR,11.0,No,AD Mathews
+2009,2009-05-24,RCB,DC,New Wanderers Stadium,Johannesburg,RCB,field,DC,RCB,N,DC,6.0,No,A Kumble
+2009,2009-05-23,RCB,CSK,New Wanderers Stadium,Johannesburg,RCB,field,CSK,RCB,N,RCB,6.0,Yes,MK Pandey
+2009,2009-05-22,DD,DC,SuperSport Park,Centurion,DC,field,DD,DC,N,DC,6.0,Yes,AC Gilchrist
+2009,2009-05-21,RCB,DC,SuperSport Park,Centurion,RCB,bat,RCB,DC,N,RCB,12.0,Yes,MK Pandey
+2009,2009-05-21,DD,MI,SuperSport Park,Centurion,DD,field,MI,DD,N,DD,4.0,Yes,V Sehwag
+2009,2009-05-20,CSK,KXP,Kingsmead,Durban,CSK,bat,CSK,KXP,N,CSK,24.0,Yes,M Muralitharan
+2009,2009-05-20,KKR,RR,Kingsmead,Durban,KKR,field,RR,KKR,N,KKR,4.0,Yes,LR Shukla
+2009,2009-05-19,RCB,DD,New Wanderers Stadium,Johannesburg,DD,bat,DD,RCB,N,RCB,7.0,No,JH Kallis
+2009,2009-05-18,CSK,KKR,SuperSport Park,Centurion,CSK,bat,CSK,KKR,N,KKR,7.0,No,BJ Hodge
+2009,2009-05-17,DD,RR,OUTsurance Oval,Bloemfontein,DD,bat,DD,RR,N,DD,14.0,Yes,AB de Villiers
+2009,2009-05-17,DC,KXP,New Wanderers Stadium,Johannesburg,DC,field,KXP,DC,N,KXP,1.0,No,Yuvraj Singh
+2009,2009-05-16,DC,KKR,New Wanderers Stadium,Johannesburg,DC,field,KKR,DC,N,DC,6.0,Yes,RG Sharma
+2009,2009-05-16,CSK,MI,St George's Park,Port Elizabeth,MI,bat,MI,CSK,N,CSK,7.0,No,ML Hayden
+2009,2009-05-15,DD,KXP,OUTsurance Oval,Bloemfontein,KXP,field,DD,KXP,N,KXP,6.0,Yes,B Lee
+2009,2009-05-14,MI,RR,Kingsmead,Durban,RR,bat,RR,MI,N,RR,2.0,Yes,SK Warne
+2009,2009-05-14,RCB,CSK,Kingsmead,Durban,CSK,bat,CSK,RCB,N,RCB,2.0,No,LRPL Taylor
+2009,2009-05-13,DC,DD,Kingsmead,Durban,DC,field,DD,DC,N,DD,12.0,No,R Bhatia
+2009,2009-05-12,KXP,MI,SuperSport Park,Centurion,KXP,bat,KXP,MI,N,MI,8.0,No,Harbhajan Singh
+2009,2009-05-12,RCB,KKR,SuperSport Park,Centurion,RCB,field,KKR,RCB,N,RCB,6.0,Yes,LRPL Taylor
+2009,2009-05-11,DC,RR,De Beers Diamond Oval,Kimberley,DC,bat,DC,RR,N,DC,53.0,Yes,DR Smith
+2009,2009-05-10,DD,KKR,New Wanderers Stadium,Johannesburg,DD,field,KKR,DD,N,DD,7.0,Yes,A Mishra
+2009,2009-05-10,RCB,MI,St George's Park,Port Elizabeth,MI,bat,MI,RCB,N,MI,16.0,Yes,JP Duminy
+2009,2009-05-09,DC,KXP,De Beers Diamond Oval,Kimberley,KXP,field,DC,KXP,N,KXP,3.0,Yes,DPMD Jayawardene
+2009,2009-05-09,CSK,RR,De Beers Diamond Oval,Kimberley,RR,bat,RR,CSK,N,CSK,7.0,No,S Badrinath
+2009,2009-05-08,DD,MI,Buffalo Park,East London,MI,bat,MI,DD,N,DD,7.0,No,A Nehra
+2009,2009-05-07,CSK,KXP,SuperSport Park,Centurion,CSK,bat,CSK,KXP,N,CSK,12.0,Yes,ML Hayden
+2009,2009-05-07,RCB,RR,SuperSport Park,Centurion,RR,field,RCB,RR,N,RR,7.0,Yes,A Singh
+2009,2009-05-06,DC,MI,SuperSport Park,Centurion,DC,bat,DC,MI,N,DC,19.0,Yes,RG Sharma
+2009,2009-05-05,DD,KKR,Kingsmead,Durban,KKR,bat,KKR,DD,N,DD,9.0,No,G Gambhir
+2009,2009-05-05,KXP,RR,Kingsmead,Durban,KXP,field,RR,KXP,N,RR,78.0,No,GC Smith
+2009,2009-05-04,CSK,DC,Buffalo Park,East London,CSK,bat,CSK,DC,N,CSK,78.0,Yes,MS Dhoni
+2009,2009-05-03,RCB,MI,New Wanderers Stadium,Johannesburg,MI,bat,MI,RCB,N,RCB,9.0,No,JH Kallis
+2009,2009-05-03,KXP,KKR,St George's Park,Port Elizabeth,KKR,bat,KKR,KXP,N,KXP,6.0,No,DPMD Jayawardene
+2009,2009-05-02,CSK,DD,New Wanderers Stadium,Johannesburg,DD,field,CSK,DD,N,CSK,18.0,No,SB Jakati
+2009,2009-05-02,DC,RR,St George's Park,Port Elizabeth,DC,bat,DC,RR,N,RR,3.0,No,YK Pathan
+2009,2009-05-01,KKR,MI,Buffalo Park,East London,MI,bat,MI,KKR,N,MI,9.0,Yes,JP Duminy
+2009,2009-05-01,RCB,KXP,Kingsmead,Durban,RCB,bat,RCB,KXP,N,RCB,8.0,Yes,Yuvraj Singh
+2009,2009-04-30,DC,DD,SuperSport Park,Centurion,DD,field,DC,DD,N,DD,6.0,Yes,DP Nannes
+2009,2009-04-30,CSK,RR,SuperSport Park,Centurion,RR,field,CSK,RR,N,CSK,38.0,No,SK Raina
+2009,2009-04-29,KXP,MI,Kingsmead,Durban,KXP,bat,KXP,MI,N,KXP,3.0,Yes,KC Sangakkara
+2009,2009-04-29,RCB,KKR,Kingsmead,Durban,KKR,bat,KKR,RCB,N,RCB,5.0,No,MV Boucher
+2009,2009-04-28,DD,RR,SuperSport Park,Centurion,DD,bat,DD,RR,N,RR,5.0,No,YK Pathan
+2009,2009-04-27,CSK,DC,Kingsmead,Durban,DC,field,CSK,DC,N,DC,6.0,Yes,HH Gibbs
+2009,2009-04-27,KKR,MI,St George's Park,Port Elizabeth,MI,bat,MI,KKR,N,MI,92.0,Yes,SR Tendulkar
+2009,2009-04-26,KXP,RR,Newlands,Cape Town,KXP,bat,KXP,RR,N,KXP,27.0,Yes,KC Sangakkara
+2009,2009-04-26,RCB,DD,St George's Park,Port Elizabeth,RCB,bat,RCB,DD,N,DD,6.0,No,TM Dilshan
+2009,2009-04-25,DC,MI,Kingsmead,Durban,DC,bat,DC,MI,N,DC,12.0,Yes,PP Ojha
+2009,2009-04-24,RCB,KXP,Kingsmead,Durban,RCB,bat,RCB,KXP,N,KXP,7.0,No,RS Bopara
+2009,2009-04-23,KKR,RR,Newlands,Cape Town,KKR,field,RR,KKR,Y,RR,17.0,No,YK Pathan
+2009,2009-04-23,CSK,DD,Kingsmead,Durban,DD,bat,DD,CSK,N,DD,9.0,Yes,AB de Villiers
+2009,2009-04-22,RCB,DC,Newlands,Cape Town,DC,bat,DC,RCB,N,DC,24.0,Yes,AC Gilchrist
+2009,2009-04-21,KXP,KKR,Kingsmead,Durban,KKR,field,KXP,KKR,N,KKR,11.0,Yes,CH Gayle
+2009,2009-04-20,RCB,CSK,St George's Park,Port Elizabeth,CSK,bat,CSK,RCB,N,CSK,92.0,Yes,M Muralitharan
+2009,2009-04-19,DC,KKR,Newlands,Cape Town,KKR,bat,KKR,DC,N,DC,8.0,No,RP Singh
+2009,2009-04-19,DD,KXP,Newlands,Cape Town,DD,field,KXP,DD,N,DD,10.0,Yes,DL Vettori
+2009,2009-04-18,RCB,RR,Newlands,Cape Town,RCB,bat,RCB,RR,N,RCB,75.0,Yes,R Dravid
+2009,2009-04-18,CSK,MI,Newlands,Cape Town,CSK,field,MI,CSK,N,MI,19.0,No,SR Tendulkar
+2007/08,2008-06-01,CSK,RR,Dr DY Patil Sports Academy,Mumbai,RR,field,CSK,RR,N,RR,3.0,Yes,YK Pathan
+2007/08,2008-05-31,CSK,KXP,Wankhede Stadium,Mumbai,KXP,bat,KXP,CSK,N,CSK,9.0,No,M Ntini
+2007/08,2008-05-30,DD,RR,Wankhede Stadium,Mumbai,DD,field,RR,DD,N,RR,105.0,No,SR Watson
+2007/08,2008-05-28,RCB,MI,M Chinnaswamy Stadium,Bangalore,MI,field,RCB,MI,N,MI,9.0,Yes,CRD Fernando
+2007/08,2008-05-28,KXP,RR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RR,field,KXP,RR,N,KXP,41.0,No,SE Marsh
+2007/08,2008-05-27,DC,CSK,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,bat,DC,CSK,N,CSK,7.0,No,SK Raina
+2007/08,2008-05-26,RR,MI,Sawai Mansingh Stadium,Jaipur,RR,field,MI,RR,N,RR,5.0,Yes,Sohail Tanvir
+2007/08,2008-05-25,KKR,KXP,Eden Gardens,Kolkata,KXP,bat,KXP,KKR,N,KKR,3.0,No,Umar Gul
+2007/08,2008-05-25,DC,RCB,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,bat,DC,RCB,N,RCB,5.0,No,R Vinay Kumar
+2007/08,2008-05-24,CSK,RR,"MA Chidambaram Stadium, Chepauk",Chennai,RR,bat,RR,CSK,N,RR,10.0,Yes,JA Morkel
+2007/08,2008-05-24,DD,MI,Feroz Shah Kotla,Delhi,DD,field,MI,DD,N,DD,5.0,Yes,KD Karthik
+2007/08,2008-05-23,KXP,DC,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,field,DC,KXP,N,KXP,6.0,Yes,SE Marsh
+2007/08,2008-05-21,CSK,RCB,"MA Chidambaram Stadium, Chepauk",Chennai,RCB,bat,RCB,CSK,N,RCB,14.0,Yes,A Kumble
+2007/08,2008-05-21,MI,KXP,Wankhede Stadium,Mumbai,MI,field,KXP,MI,N,KXP,1.0,No,SE Marsh
+2007/08,2008-05-20,KKR,RR,Eden Gardens,Kolkata,RR,field,KKR,RR,N,RR,6.0,Yes,YK Pathan
+2007/08,2008-05-19,RCB,DD,M Chinnaswamy Stadium,Bangalore,DD,field,RCB,DD,N,DD,5.0,Yes,SP Goswami
+2007/08,2008-05-18,KKR,CSK,Eden Gardens,Kolkata,KKR,bat,KKR,CSK,N,CSK,3.0,No,M Ntini
+2007/08,2008-05-18,DC,MI,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,field,MI,DC,N,MI,25.0,No,DJ Bravo
+2007/08,2008-05-17,DD,KXP,Feroz Shah Kotla,Delhi,DD,bat,DD,KXP,N,KXP,6.0,No,DPMD Jayawardene
+2007/08,2008-05-17,RR,RCB,Sawai Mansingh Stadium,Jaipur,RCB,field,RR,RCB,N,RR,65.0,No,GC Smith
+2007/08,2008-05-16,MI,KKR,Wankhede Stadium,Mumbai,MI,field,KKR,MI,N,MI,8.0,Yes,SM Pollock
+2007/08,2008-05-15,DD,DC,Feroz Shah Kotla,Delhi,DC,field,DD,DC,N,DD,12.0,No,A Mishra
+2007/08,2008-05-14,MI,CSK,Wankhede Stadium,Mumbai,MI,field,CSK,MI,N,MI,9.0,Yes,ST Jayasuriya
+2007/08,2008-05-13,KKR,DD,Eden Gardens,Kolkata,KKR,bat,KKR,DD,N,KKR,23.0,Yes,Shoaib Akhtar
+2007/08,2008-05-12,KXP,RCB,"Punjab Cricket Association Stadium, Mohali",Chandigarh,RCB,bat,RCB,KXP,N,KXP,9.0,No,SE Marsh
+2007/08,2008-05-11,RR,DD,Sawai Mansingh Stadium,Jaipur,RR,field,DD,RR,N,RR,3.0,Yes,SR Watson
+2007/08,2008-05-11,DC,KKR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KKR,bat,KKR,DC,N,KKR,23.0,Yes,SC Ganguly
+2007/08,2008-05-10,CSK,KXP,"MA Chidambaram Stadium, Chepauk",Chennai,KXP,field,CSK,KXP,N,CSK,18.0,No,L Balaji
+2007/08,2008-05-09,RR,DC,Sawai Mansingh Stadium,Jaipur,RR,field,DC,RR,N,RR,8.0,Yes,YK Pathan
+2007/08,2008-05-08,KKR,RCB,Eden Gardens,Kolkata,KKR,bat,KKR,RCB,N,KKR,5.0,Yes,SC Ganguly
+2007/08,2008-05-08,DD,CSK,Feroz Shah Kotla,Delhi,CSK,field,DD,CSK,N,CSK,4.0,Yes,MS Dhoni
+2007/08,2008-05-07,MI,RR,Dr DY Patil Sports Academy,Mumbai,MI,field,RR,MI,N,MI,7.0,Yes,A Nehra
+2007/08,2008-05-06,CSK,DC,"MA Chidambaram Stadium, Chepauk",Chennai,DC,field,CSK,DC,N,DC,7.0,Yes,AC Gilchrist
+2007/08,2008-05-05,RCB,KXP,M Chinnaswamy Stadium,Bangalore,KXP,field,RCB,KXP,N,KXP,6.0,Yes,S Sreesanth
+2007/08,2008-05-04,RR,CSK,Sawai Mansingh Stadium,Jaipur,CSK,bat,CSK,RR,N,RR,8.0,No,Sohail Tanvir
+2007/08,2008-05-04,MI,DD,Dr DY Patil Sports Academy,Mumbai,DD,field,MI,DD,N,MI,29.0,No,SM Pollock
+2007/08,2008-05-03,KXP,KKR,"Punjab Cricket Association Stadium, Mohali",Chandigarh,KXP,bat,KXP,KKR,N,KXP,9.0,Yes,IK Pathan
+2007/08,2008-05-03,RCB,DC,M Chinnaswamy Stadium,Bangalore,DC,field,RCB,DC,N,RCB,3.0,No,P Kumar
+2007/08,2008-05-02,CSK,DD,"MA Chidambaram Stadium, Chepauk",Chennai,CSK,bat,CSK,DD,N,DD,8.0,No,V Sehwag
+2007/08,2008-05-01,RR,KKR,Sawai Mansingh Stadium,Jaipur,RR,bat,RR,KKR,N,RR,45.0,Yes,SA Asnodkar
+2007/08,2008-05-01,DC,KXP,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KXP,field,DC,KXP,N,KXP,7.0,Yes,SE Marsh
+2007/08,2008-04-30,DD,RCB,Feroz Shah Kotla,Delhi,RCB,field,DD,RCB,N,DD,10.0,No,GD McGrath
+2007/08,2008-04-29,KKR,MI,Eden Gardens,Kolkata,KKR,bat,KKR,MI,N,MI,7.0,No,ST Jayasuriya
+2007/08,2008-04-28,RCB,CSK,M Chinnaswamy Stadium,Bangalore,CSK,bat,CSK,RCB,N,CSK,13.0,Yes,MS Dhoni
+2007/08,2008-04-27,KXP,DD,"Punjab Cricket Association Stadium, Mohali",Chandigarh,DD,bat,DD,KXP,N,KXP,4.0,No,SM Katich
+2007/08,2008-04-27,MI,DC,Dr DY Patil Sports Academy,Mumbai,DC,field,MI,DC,N,DC,10.0,Yes,AC Gilchrist
+2007/08,2008-04-26,RCB,RR,M Chinnaswamy Stadium,Bangalore,RR,field,RCB,RR,N,RR,7.0,Yes,SR Watson
+2007/08,2008-04-26,CSK,KKR,"MA Chidambaram Stadium, Chepauk",Chennai,KKR,bat,KKR,CSK,N,CSK,9.0,No,JDP Oram
+2007/08,2008-04-25,KXP,MI,"Punjab Cricket Association Stadium, Mohali",Chandigarh,MI,field,KXP,MI,N,KXP,66.0,No,KC Sangakkara
+2007/08,2008-04-24,DC,RR,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,RR,field,DC,RR,N,RR,3.0,Yes,YK Pathan
+2007/08,2008-04-23,CSK,MI,"MA Chidambaram Stadium, Chepauk",Chennai,MI,field,CSK,MI,N,CSK,6.0,No,ML Hayden
+2007/08,2008-04-22,DC,DD,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DC,bat,DC,DD,N,DD,9.0,No,V Sehwag
+2007/08,2008-04-21,RR,KXP,Sawai Mansingh Stadium,Jaipur,KXP,bat,KXP,RR,N,RR,6.0,No,SR Watson
+2007/08,2008-04-20,MI,RCB,Wankhede Stadium,Mumbai,MI,bat,MI,RCB,N,RCB,5.0,No,MV Boucher
+2007/08,2008-04-20,KKR,DC,Eden Gardens,Kolkata,DC,bat,DC,KKR,N,KKR,5.0,No,DJ Hussey
+2007/08,2008-04-19,DD,RR,Feroz Shah Kotla,Delhi,RR,bat,RR,DD,N,DD,9.0,No,MF Maharoof
+2007/08,2008-04-19,KXP,CSK,"Punjab Cricket Association Stadium, Mohali",Chandigarh,CSK,bat,CSK,KXP,N,CSK,33.0,Yes,MEK Hussey
+2007/08,2008-04-18,RCB,KKR,M Chinnaswamy Stadium,Bangalore,RCB,field,KKR,RCB,N,KKR,140.0,No,BB McCullum
