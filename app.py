@@ -12,7 +12,7 @@ from sklearn.impute import SimpleImputer
 FILE_PATH = 'ipl-data.csv'
 
 
-class StreamlitApp:
+class App:
 
     def __init__(self, file):
         st.markdown(f"<h1 class='header-style'>IPL Teams Performance Analysis (2008-2020)</h1>",
@@ -158,6 +158,11 @@ class StreamlitApp:
         return None
 
 
-app = StreamlitApp(FILE_PATH)
+app = App(FILE_PATH)
 app.fill_missing_data()
 app.teams_analysis()
+
+
+
+
+
