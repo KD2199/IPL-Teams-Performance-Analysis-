@@ -1,0 +1,4 @@
+
+.idea
+# exclude all csv files
+*.csv
